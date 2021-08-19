@@ -56,8 +56,8 @@ For each ANN the following data is provided
 | File | Description |
 |--|--|
 |_log.txt|Log file of the training process|
-|_loss_statistics_evaluation.npy|Losses from the training process evaluated with data from the evaluation cache (see [modules/](#modules/))|
-|_loss_statistics_training.npy|Losses from the training process evaluated with data from the training cache (see [modules/](#modules/))|
+|_loss_statistics_evaluation.npy|Losses from the training process evaluated with data from the evaluation cache (see [modules/](#modules))|
+|_loss_statistics_training.npy|Losses from the training process evaluated with data from the training cache (see [modules/](#modules))|
 |_meta.pt|Simulation model instance and data pre- and post-processing configuration|
 |_nn.pt|The actual ANN|
 |_parameters.pt|Hyperparameters|
