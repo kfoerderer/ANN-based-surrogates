@@ -21,10 +21,10 @@ The contents of the repository are structured as follows:
 
 |Folder|Contents|
 |---|---|
-| [data/](#data/) | Input data for the different experiments|
-| [evaluation/](#evaluation/) | trained ANNs, generated results, and scripts for each experiment |
-| [learning/](#learning/) | script for training ANNs and many different configuration files |
-| [modules/](#modules/) | code base, including all simulation and optimization models |
+| [data/](#data) | Input data for the different experiments|
+| [evaluation/](#evaluation) | trained ANNs, generated results, and scripts for each experiment |
+| [learning/](#learning) | script for training ANNs and many different configuration files |
+| [modules/](#modules) | code base, including all simulation and optimization models |
 
 ### data/
 
