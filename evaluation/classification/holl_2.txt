@@ -1,0 +1,43 @@
+learning/statebased/output/2020-09-19_03-26-49_holl_state
+learning/statebased/output/2020-09-21_10-06-00_holl_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.02
+Testing 50000 arbitrary schedules
+Testing 25000 random strategy schedules
+Testing 25000 reference strategy schedules
+--- 96 time steps ---
+74642 of 100000 schedules classified correctly
+Feasible schedule(s) 	50099
+Infeasible schedule(s) 	49901
+True positives 		24741
+False positives 	0
+True negatives 		49901
+False negatives 	25358
+--- 32 time steps ---
+92979 of 100000 schedules classified correctly
+Feasible schedule(s) 	50100
+Infeasible schedule(s) 	49900
+True positives 		43079
+False positives 	0
+True negatives 		49900
+False negatives 	7021
+--- 24 time steps ---
+95088 of 100000 schedules classified correctly
+Feasible schedule(s) 	50107
+Infeasible schedule(s) 	49893
+True positives 		45195
+False positives 	0
+True negatives 		49893
+False negatives 	4912
+--- 4 time steps ---
+99218 of 100000 schedules classified correctly
+Feasible schedule(s) 	53454
+Infeasible schedule(s) 	46546
+True positives 		52684
+False positives 	12
+True negatives 		46534
+False negatives 	770
+---

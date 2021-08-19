@@ -1,0 +1,43 @@
+learning/statebased/output/2020-08-19_14-11-51_evse_state
+learning/statebased/output/2020-08-18_13-57-17_evse_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.0
+Testing 50000 arbitrary schedules
+Testing 25000 random strategy schedules
+Testing 25000 reference strategy schedules
+--- 96 time steps ---
+90658 of 100000 schedules classified correctly
+Feasible schedule(s) 	50035
+Infeasible schedule(s) 	49965
+True positives 		40693
+False positives 	0
+True negatives 		49965
+False negatives 	9342
+--- 32 time steps ---
+95671 of 100000 schedules classified correctly
+Feasible schedule(s) 	50035
+Infeasible schedule(s) 	49965
+True positives 		45706
+False positives 	0
+True negatives 		49965
+False negatives 	4329
+--- 24 time steps ---
+96141 of 100000 schedules classified correctly
+Feasible schedule(s) 	50036
+Infeasible schedule(s) 	49964
+True positives 		46177
+False positives 	0
+True negatives 		49964
+False negatives 	3859
+--- 4 time steps ---
+98566 of 100000 schedules classified correctly
+Feasible schedule(s) 	52541
+Infeasible schedule(s) 	47459
+True positives 		51114
+False positives 	7
+True negatives 		47452
+False negatives 	1427
+---

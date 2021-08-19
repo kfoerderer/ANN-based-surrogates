@@ -1,0 +1,43 @@
+learning/statebased/output/2020-09-02_19-02-11_dfh_state
+learning/statebased/output/2020-08-31_16-11-58_dfh_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.02
+Testing 50000 arbitrary schedules
+Testing 25000 random strategy schedules
+Testing 25000 reference strategy schedules
+--- 96 time steps ---
+85031 of 100000 schedules classified correctly
+Feasible schedule(s) 	50018
+Infeasible schedule(s) 	49982
+True positives 		35049
+False positives 	0
+True negatives 		49982
+False negatives 	14969
+--- 32 time steps ---
+96586 of 100000 schedules classified correctly
+Feasible schedule(s) 	50019
+Infeasible schedule(s) 	49981
+True positives 		46605
+False positives 	0
+True negatives 		49981
+False negatives 	3414
+--- 24 time steps ---
+97839 of 100000 schedules classified correctly
+Feasible schedule(s) 	50035
+Infeasible schedule(s) 	49965
+True positives 		47875
+False positives 	1
+True negatives 		49964
+False negatives 	2160
+--- 4 time steps ---
+99691 of 100000 schedules classified correctly
+Feasible schedule(s) 	61333
+Infeasible schedule(s) 	38667
+True positives 		61224
+False positives 	200
+True negatives 		38467
+False negatives 	109
+---

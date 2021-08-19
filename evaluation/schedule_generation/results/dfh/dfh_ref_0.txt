@@ -1,0 +1,128 @@
+learning/statebased/output/2020-09-02_19-02-11_dfh_state
+learning/statebased/output/2020-08-31_16-11-58_dfh_actions
+----------------------------------------------------------------
+Schedule generation
+----------------------------------------------------------------
+Using choose_action_using_reference() to choose actions
+Constraint fuzziness 0.0
+Generating 10000 load schedules
+4729 of 10000 schedules feasible
+
+Interaction: min delta=-12700.0, max delta=11700.0
+
+Feasible schedules by step
+[10000, 9998, 9989, 9967, 9944, 9921, 9882, 9844, 9798, 9767, 9729, 9695, 9651, 9621, 9581, 9526, 9467, 9428, 9377, 9331, 9273, 9234, 9177, 9120, 9037, 8979, 8926, 8869, 8803, 8746, 8692, 8636, 8551, 8503, 8432, 8356, 8284, 8235, 8161, 8084, 7998, 7948, 7878, 7807, 7723, 7680, 7613, 7553, 7473, 7405, 7353, 7294, 7208, 7134, 7069, 6997, 6922, 6872, 6820, 6757, 6685, 6625, 6559, 6487, 6427, 6350, 6302, 6249, 6194, 6127, 6073, 6023, 5968, 5920, 5869, 5808, 5734, 5677, 5626, 5558, 5506, 5456, 5410, 5358, 5300, 5261, 5216, 5160, 5104, 5064, 5031, 4971, 4917, 4870, 4830, 4786, 4729]
+
+---- 96 time steps -- simulation ----
+4729 of 10000 feasible
+Number of errors (quartiles): [1.0, 1.0, 2.0, 3.0, 21.0]
+MAE of infeasibles: 21.481731802946943
+MSE of infeasibles: 59215.10387023335
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-9800.0, -200.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9300.0]
+Only errors: [-9800.0, -5100.0, -4100.0, -3200.0, -600.0, -100.0, -100.0, 1700.0, 2500.0, 4200.0, 9300.0]
+
+---- 24 time steps -- simulation ----
+9037 of 10000 feasible
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 9.0]
+MAE of infeasibles: 32.692973347178956
+MSE of infeasibles: 96575.80477673936
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-7700.0, -200.0, -100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 9300.0]
+Only errors: [-7700.0, -5085.0, -3200.0, -2600.0, -100.0, -100.0, 100.0, 1200.0, 2500.0, 4484.999999999991, 9300.0]
+
+---- 4 time steps -- simulation ----
+9944 of 10000 feasible
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 2.0]
+MAE of infeasibles: 97.76785714285714
+MSE of infeasibles: 192276.7857142857
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-2700.0, -1339.0, -285.0, -100.0, 0.0, 0.0, 0.0, 100.0, 100.0, 816.0000000000082, 3600.0]
+Only errors: [-2700.0, -2582.0, -2025.0, -834.9999999999999, -100.0, 100.0, 100.0, 239.99999999999773, 2259.999999999997, 3481.999999999999, 3600.0]
+
+----------------------------------------------------------------
+Validation of 5271 "infeasible" [sim.] schedules with MILP (timelimit=20)
+----------------------------------------------------------------
+--------------------------------
+---- 96 time steps ----
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+2068 of 5271 schedules exactly reproducable
+---- 96 time steps -- filtered simulation results ----
+Number of errors (quartiles): [1.0, 1.0, 2.0, 3.0, 21.0]
+MAE of infeasibles: 20.910409511915912
+MSE of infeasibles: 53529.73124154439
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-9800.0, -200.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 7100.0]
+Only errors: [-9800.0, -4700.0, -3900.0, -3000.0, -500.0, -100.0, -100.0, 1400.0, 2400.0, 3900.0, 7100.0]
+
+---- 96 time steps -- MILP results ----
+Number of errors (quartiles): [1.0, 1.0, 2.0, 3.0, 61.0]
+MAE of infeasibles: 8.029223668297881
+MSE of infeasibles: 12515.625171737105
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-5447.586999999991, -100.0, -6.858726919745087e-11, 0.0, 0.0, 0.0, 0.0, 0.0, 2.2737367544323206e-13, 7.275957614183426e-12, 5200.0]
+Only errors: [-5447.586999999991, -2895.470000000373, -2399.999999765417, -1800.0, -250.06249999999957, -86.5387222221716, -14.117208333203212, 46.395013888911386, 161.03124999999955, 663.4921215502072, 5200.0]
+
+Feasible schedules by step
+[10000, 9998, 9989, 9967, 9947, 9927, 9894, 9864, 9830, 9804, 9773, 9744, 9711, 9687, 9658, 9618, 9574, 9541, 9502, 9475, 9429, 9400, 9361, 9314, 9244, 9193, 9155, 9112, 9072, 9034, 8994, 8955, 8890, 8862, 8810, 8757, 8709, 8680, 8626, 8578, 8517, 8481, 8434, 8383, 8325, 8297, 8253, 8220, 8168, 8131, 8106, 8074, 8021, 7971, 7931, 7882, 7844, 7817, 7784, 7753, 7713, 7681, 7639, 7601, 7573, 7532, 7503, 7473, 7445, 7407, 7375, 7353, 7322, 7297, 7273, 7245, 7208, 7184, 7159, 7120, 7095, 7074, 7056, 7035, 7015, 6999, 6977, 6966, 6945, 6926, 6914, 6887, 6863, 6839, 6827, 6812, 6797]
+
+--------------------------------
+---- 24 time steps ----
+85 of 756 schedules exactly reproducable
+---- 24 time steps -- filtered simulation results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 9.0]
+MAE of infeasibles: 22.466467958271238
+MSE of infeasibles: 51604.57029309488
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-7700.0, -100.0, -100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 4400.0]
+Only errors: [-7700.0, -4070.0, -2884.9999999999995, -2469.9999999999995, -100.0, -100.0, 100.0, 100.0, 885.0000000000023, 2193.999999999994, 4400.0]
+
+---- 24 time steps -- MILP results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 7.0]
+MAE of infeasibles: 12.663404667726766
+MSE of infeasibles: 23405.278480947247
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-5100.0, -99.99999999999983, -24.06098333333166, -9.094947017729282e-13, 0.0, 0.0, 0.0, 0.0, 1.8189894035458565e-12, 13.60991236842112, 3768.9125506064097]
+Only errors: [-5100.0, -2970.999999999989, -2300.0, -1400.043358333333, -71.88387500000204, -22.113305555555968, 1.3681388888905417, 72.94167499727033, 157.41308611040924, 1431.4208322222316, 3768.9125506064097]
+
+Feasible schedules by step
+[10000, 9998, 9990, 9970, 9953, 9936, 9905, 9878, 9849, 9827, 9801, 9773, 9743, 9720, 9694, 9657, 9615, 9585, 9552, 9526, 9485, 9461, 9431, 9388, 9329]
+
+--------------------------------
+---- 4 time steps ----
+2 of 47 schedules exactly reproducable
+---- 4 time steps -- filtered simulation results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 2.0]
+MAE of infeasibles: 64.44444444444444
+MSE of infeasibles: 92111.11111111111
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-2700.0, -1710.0, -100.0, -100.0, 0.0, 0.0, 0.0, 100.0, 100.0, 100.0, 100.0]
+Only errors: [-2700.0, -2608.0, -2349.9999999999995, -1229.9999999999998, -100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0]
+
+---- 4 time steps -- MILP results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 2.0]
+MAE of infeasibles: 44.49538333326656
+MSE of infeasibles: 85247.31285718926
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-2612.874388888889, -1631.0622783333329, -80.24504027777789, -29.418347222222742, 0.0, 0.0, 0.0, 24.86918128566118, 38.94272083216403, 45.31075286549719, 47.50994152046769]
+Only errors: [-2612.874388888889, -2560.95217, -2335.0118249999996, -1135.3956999999994, -19.795249999999214, 4.752046783625701, 19.489473682913285, 43.622190935672556, 46.18651988304103, 46.99558619883037, 47.50994152046769]
+
+Feasible schedules by step
+[10000, 9998, 9990, 9971, 9955]
+
+---

@@ -1,0 +1,188 @@
+learning/statebased/output/2020-09-19_03-26-49_holl_state
+learning/statebased/output/2020-09-21_10-06-00_holl_actions
+----------------------------------------------------------------
+Schedule generation
+----------------------------------------------------------------
+Using choose_action_using_reference() to choose actions
+Constraint fuzziness 0.0
+Generating 10000 load schedules
+4216 of 10000 schedules feasible
+
+Interaction: min delta=-21500.0, max delta=17800.0
+
+Feasible schedules by step
+[10000, 9946, 9788, 9671, 9581, 9488, 9407, 9337, 9278, 9231, 9181, 9135, 9085, 9047, 8991, 8941, 8888, 8836, 8780, 8725, 8680, 8631, 8571, 8512, 8458, 8405, 8345, 8261, 8211, 8147, 8079, 8016, 7955, 7886, 7820, 7748, 7675, 7624, 7554, 7484, 7414, 7341, 7289, 7230, 7177, 7122, 7056, 7008, 6939, 6877, 6819, 6752, 6694, 6631, 6558, 6504, 6424, 6351, 6276, 6214, 6166, 6112, 6033, 5974, 5918, 5862, 5814, 5754, 5703, 5650, 5598, 5541, 5481, 5431, 5374, 5316, 5272, 5215, 5175, 5115, 5035, 4971, 4913, 4868, 4818, 4760, 4706, 4657, 4607, 4557, 4504, 4446, 4391, 4349, 4303, 4255, 4216]
+
+---- 96 time steps -- simulation ----
+4216 of 10000 feasible
+Number of errors (quartiles): [1.0, 2.0, 4.0, 8.0, 65.0]
+MAE of infeasibles: 59.687103792070076
+MSE of infeasibles: 180745.46522014754
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-17800.0, -100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 200.0, 900.0, 21500.0]
+Only errors: [-17800.0, -4500.0, -2900.0, -2200.0, 100.0, 200.0, 300.0, 3400.0, 4700.0, 5800.0, 21500.0]
+
+---- 24 time steps -- simulation ----
+8458 of 10000 feasible
+Number of errors (quartiles): [1.0, 1.0, 1.0, 2.0, 19.0]
+MAE of infeasibles: 81.7552961521833
+MSE of infeasibles: 256774.7514051016
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-14700.0, -1200.0, -182.49999999999318, 0.0, 0.0, 0.0, 0.0, 100.0, 200.0, 1500.0, 14600.0]
+Only errors: [-14700.0, -5100.0, -4100.0, -2600.0, -300.0, 100.0, 300.0, 3500.0, 4400.0, 5400.0, 14600.0]
+
+---- 4 time steps -- simulation ----
+9581 of 10000 feasible
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 4.0]
+MAE of infeasibles: 331.02625298329355
+MSE of infeasibles: 1071038.1861575178
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-14700.0, -4300.0, -2712.5, -1400.0, 0.0, 0.0, 0.0, 100.0, 1012.5, 2500.0, 5500.0]
+Only errors: [-14700.0, -6000.0, -4500.0, -3495.0, -1000.0, -300.0, -100.0, 1794.9999999999989, 2700.0, 4398.000000000002, 5500.0]
+
+----------------------------------------------------------------
+Validation of 5784 "infeasible" [sim.] schedules with MILP (timelimit=20)
+----------------------------------------------------------------
+--------------------------------
+---- 96 time steps ----
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+Loading a SolverResults object with an 'aborted' status, but containing a solution
+3666 of 5784 schedules exactly reproducable
+---- 96 time steps -- filtered simulation results ----
+Number of errors (quartiles): [1.0, 2.0, 4.0, 10.0, 65.0]
+MAE of infeasibles: 75.11459316965691
+MSE of infeasibles: 216689.73284545168
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-17800.0, -1100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 200.0, 300.0, 1500.0, 17000.0]
+Only errors: [-17800.0, -4600.0, -3200.0, -2400.0, 100.0, 200.0, 400.0, 3300.0, 4600.0, 5700.0, 17000.0]
+
+---- 96 time steps -- MILP results ----
+Number of errors (quartiles): [1.0, 1.0, 2.0, 3.0, 61.0]
+MAE of infeasibles: 18.280610391896627
+MSE of infeasibles: 32591.36854763267
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-14700.0, -100.0, -5.684341886080802e-14, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.7333577992311, 4800.0]
+Only errors: [-14700.0, -3780.3399612362277, -2699.999999999932, -2300.0, -799.9999999999209, 0.0005478266207319393, 318.657844801628, 1378.5367214628723, 1900.0, 2600.0, 4800.0]
+
+Feasible schedules by step
+[10000, 9946, 9853, 9811, 9775, 9735, 9699, 9672, 9648, 9627, 9603, 9588, 9563, 9543, 9519, 9492, 9470, 9450, 9425, 9400, 9385, 9360, 9337, 9308, 9280, 9258, 9239, 9199, 9178, 9153, 9120, 9097, 9070, 9043, 9020, 8995, 8966, 8944, 8916, 8889, 8864, 8828, 8809, 8788, 8764, 8741, 8708, 8689, 8669, 8651, 8629, 8608, 8588, 8564, 8538, 8512, 8490, 8462, 8435, 8412, 8402, 8383, 8353, 8331, 8316, 8298, 8285, 8265, 8255, 8241, 8224, 8208, 8190, 8174, 8157, 8147, 8135, 8117, 8105, 8091, 8069, 8053, 8040, 8027, 8014, 8000, 7982, 7968, 7958, 7953, 7938, 7924, 7912, 7906, 7894, 7885, 7882]
+
+--------------------------------
+---- 24 time steps ----
+247 of 720 schedules exactly reproducable
+---- 24 time steps -- filtered simulation results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 3.0, 13.0]
+MAE of infeasibles: 97.63918252290345
+MSE of infeasibles: 305264.27061310783
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-14700.0, -1800.0, -500.0, 0.0, 0.0, 0.0, 0.0, 100.0, 200.0, 1500.0, 12000.0]
+Only errors: [-14700.0, -5160.0, -3975.0, -2700.0, -600.0, 100.0, 200.0, 2850.0, 4200.0, 5400.0, 12000.0]
+
+---- 24 time steps -- MILP results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 2.0, 10.0]
+MAE of infeasibles: 49.80674181441741
+MSE of infeasibles: 129820.12763120691
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-14700.0, -1230.463532991191, -300.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.755342228847761, 249.07105555555523, 3600.0]
+Only errors: [-14700.0, -4963.237850570179, -3994.0525160576535, -2574.184512842804, -600.0000000000009, -100.0, 104.08012820512823, 1099.999999999996, 1800.0, 2668.999999999994, 3600.0]
+
+Feasible schedules by step
+[10000, 9946, 9875, 9843, 9820, 9792, 9768, 9749, 9735, 9721, 9710, 9703, 9686, 9674, 9659, 9643, 9625, 9615, 9598, 9586, 9578, 9567, 9555, 9540, 9527]
+
+--------------------------------
+---- 4 time steps ----
+22 of 180 schedules exactly reproducable
+---- 4 time steps -- filtered simulation results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 2.0, 4.0]
+MAE of infeasibles: 428.32278481012656
+MSE of infeasibles: 1489161.3924050634
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-14700.0, -4969.0, -3145.0, -2200.0, -100.0, 0.0, 0.0, 100.0, 1200.0, 2000.0, 5400.0]
+Only errors: [-14700.0, -7640.0, -5275.0, -3440.0, -1250.0, -400.0, -100.0, 1609.9999999999995, 2109.9999999999964, 2681.9999999999995, 5400.0]
+
+---- 4 time steps -- MILP results ----
+Number of errors (quartiles): [1.0, 1.0, 1.0, 1.0, 4.0]
+MAE of infeasibles: 309.73178205857965
+MSE of infeasibles: 1162585.770476228
+[0, 0.01, 0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975, 0.99, 1]-Quantiles
+All errors: [-15300.000000000007, -3760.409915275148, -2474.0747960769695, -1680.8909819735964, -86.34787194370983, 0.0, 0.0, 0.0, 48.01551546195249, 446.9593444444349, 2200.0]
+Only errors: [-15300.000000000007, -9161.537280011647, -4208.464761168371, -2956.120146694431, -1066.8474300419784, -400.0, -98.96768235195759, 190.61892094619415, 584.9999999999994, 1363.9999999999986, 2200.0]
+
+Feasible schedules by step
+[10000, 9946, 9887, 9859, 9842]
+
+---

@@ -1,0 +1,150 @@
+meta data:
+{   'ann_output_processor': BatchProcessor([('mode', slice(0, 1, None), BatchProcessor([]), tensor([0.])), ('mode', slice(1, 3, None), BatchProcessor([]), tensor([0., 1.])), ('mode', slice(3, 11, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('mode', slice(11, 19, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('mode', slice(19, 27, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('dnml', slice(27, 28, None), BatchProcessor([]), tensor([60.]), tensor([20.])), ('mode', slice(28, 29, None), BatchProcessor([]), tensor([0.])), ('mode', slice(29, 130, None), BatchProcessor([]), tensor([5500., 5445., 5390., 5335., 5280., 5225., 5170., 5115., 5060., 5005.,
+        4950., 4895., 4840., 4785., 4730., 4675., 4620., 4565., 4510., 4455.,
+        4400., 4345., 4290., 4235., 4180., 4125., 4070., 4015., 3960., 3905.,
+        3850., 3795., 3740., 3685., 3630., 3575., 3520., 3465., 3410., 3355.,
+        3300., 3245., 3190., 3135., 3080., 3025., 2970., 2915., 2860., 2805.,
+        2750., 2695., 2640., 2585., 2530., 2475., 2420., 2365., 2310., 2255.,
+        2200., 2145., 2090., 2035., 1980., 1925., 1870., 1815., 1760., 1705.,
+        1650., 1595., 1540., 1485., 1430., 1375., 1320., 1265., 1210., 1155.,
+        1100., 1045.,  990.,  935.,  880.,  825.,  770.,  715.,  660.,  605.,
+         550.,  495.,  440.,  385.,  330.,  275.,  220.,  165.,  110.,   55.,
+          -0.])), ('mode', slice(130, 131, None), BatchProcessor([]), tensor([0.]))]),
+    'dt': 900,
+    'input_processor': BatchProcessor([('nmlz', slice(0, 1, None), BatchProcessor([]), tensor([0.]), tensor([10000.])), ('oneh', slice(1, 2, None), BatchProcessor([]), tensor([0., 1.])), ('oneh', slice(2, 3, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('oneh', slice(3, 4, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('oneh', slice(4, 5, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('nmlz', slice(5, 7, None), BatchProcessor([]), tensor([60., 20.]), tensor([20.,  1.])), ('oneh', slice(7, 8, None), BatchProcessor([]), tensor([-5500., -5445., -5390., -5335., -5280., -5225., -5170., -5115., -5060.,
+        -5005., -4950., -4895., -4840., -4785., -4730., -4675., -4620., -4565.,
+        -4510., -4455., -4400., -4345., -4290., -4235., -4180., -4125., -4070.,
+        -4015., -3960., -3905., -3850., -3795., -3740., -3685., -3630., -3575.,
+        -3520., -3465., -3410., -3355., -3300., -3245., -3190., -3135., -3080.,
+        -3025., -2970., -2915., -2860., -2805., -2750., -2695., -2640., -2585.,
+        -2530., -2475., -2420., -2365., -2310., -2255., -2200., -2145., -2090.,
+        -2035., -1980., -1925., -1870., -1815., -1760., -1705., -1650., -1595.,
+        -1540., -1485., -1430., -1375., -1320., -1265., -1210., -1155., -1100.,
+        -1045.,  -990.,  -935.,  -880.,  -825.,  -770.,  -715.,  -660.,  -605.,
+         -550.,  -495.,  -440.,  -385.,  -330.,  -275.,  -220.,  -165.,  -110.,
+          -55.,     0.]))]),
+    'model': CHPP_HWT(CHPP(state=[   0 4500 6300 6300], state_matrix=[[(0.0, 0), (-2750.0, -6250.0)], [(-2750.0, -6250.0), (-5500.0, -12500)]], correct_infeasible=True),HWT(state=[62.316248 20.      ], soft_mix_temp=60.0, soft_max_temp=80.0, volume=0.75, charging_efficiency=1, discharging_efficiency=1, relative_loss=0.0024453491692814603, max_temp=90),demand(state=[0.], hidden_state=[99 1425 array([], shape=(0, 1), dtype=float64)]),constraint_fuzziness=0.01),
+    'output_action_feasibility': False,
+    'output_interaction': True,
+    'output_new_state': True,
+    'output_processor': BatchProcessor([('didx', slice(0, 1, None), BatchProcessor([]), tensor([0.])), ('didx', slice(1, 2, None), BatchProcessor([]), tensor([0., 1.])), ('didx', slice(2, 3, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('didx', slice(3, 4, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('didx', slice(4, 5, None), BatchProcessor([]), tensor([ 900., 1800., 2700., 3600., 4500., 5400., 6300., 7200.])), ('nmlz', slice(5, 6, None), BatchProcessor([]), tensor([60.]), tensor([20.])), ('didx', slice(6, 7, None), BatchProcessor([]), tensor([0.])), ('didx', slice(7, 8, None), BatchProcessor([]), tensor([5500., 5445., 5390., 5335., 5280., 5225., 5170., 5115., 5060., 5005.,
+        4950., 4895., 4840., 4785., 4730., 4675., 4620., 4565., 4510., 4455.,
+        4400., 4345., 4290., 4235., 4180., 4125., 4070., 4015., 3960., 3905.,
+        3850., 3795., 3740., 3685., 3630., 3575., 3520., 3465., 3410., 3355.,
+        3300., 3245., 3190., 3135., 3080., 3025., 2970., 2915., 2860., 2805.,
+        2750., 2695., 2640., 2585., 2530., 2475., 2420., 2365., 2310., 2255.,
+        2200., 2145., 2090., 2035., 1980., 1925., 1870., 1815., 1760., 1705.,
+        1650., 1595., 1540., 1485., 1430., 1375., 1320., 1265., 1210., 1155.,
+        1100., 1045.,  990.,  935.,  880.,  825.,  770.,  715.,  660.,  605.,
+         550.,  495.,  440.,  385.,  330.,  275.,  220.,  165.,  110.,   55.,
+          -0.])), ('didx', slice(8, 9, None), BatchProcessor([]), tensor([0.]))]),
+    'sampling_parameters': {   'dwell_times': [   900,
+                                                  1800,
+                                                  2700,
+                                                  3600,
+                                                  4500,
+                                                  5400,
+                                                  6300,
+                                                  7200],
+                               'infeasible_chance': 0.5,
+                               'min_off_times': [   900,
+                                                    1800,
+                                                    2700,
+                                                    3600,
+                                                    4500,
+                                                    5400,
+                                                    6300,
+                                                    7200],
+                               'min_on_times': [   900,
+                                                   1800,
+                                                   2700,
+                                                   3600,
+                                                   4500,
+                                                   5400,
+                                                   6300,
+                                                   7200],
+                               'temp_distribution': (   [   (20, 60),
+                                                            (60, 80),
+                                                            (80, 90)],
+                                                        [0.15, 0.7, 0.15])}}
+---
+parameters:
+{   'batch_count': 1000.0,
+    'batch_norms': array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0]),
+    'batch_size': 3072,
+    'betas': array([0.5, 1. , 1. , 0.5, 0.5, 0.5, 2. , 1. , 2. , 0.5]),
+    'dropout': array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0]),
+    'early_stopping_callback': EarlyStoppingCallback(stopping_scores={}, improvement_window=100),
+    'epoch_count': 1000,
+    'hidden_layer_count': 8,
+    'input_width': 130,
+    'learning_rate': 0.0001,
+    'loss': MixedLoss([(CrossEntropyLoss(), 1), (CrossEntropyLoss(), 2), (CrossEntropyLoss(), 8), (CrossEntropyLoss(), 8), (CrossEntropyLoss(), 8), (MSELoss(), 1), (CrossEntropyLoss(), 1), (CrossEntropyLoss(), 101), (CrossEntropyLoss(), 1)],tensor([1.0000e+00, 1.0000e+02, 1.0000e+02, 1.0000e+01, 1.0000e+01, 1.0000e+04,
+        1.0000e+00, 1.0000e+00, 1.0000e+00], device='cuda:0'),cuda),
+    'lr_scheduler': array([<class 'torch.optim.lr_scheduler.StepLR'>, {'step_size': 25, 'gamma': 0.5}], dtype=object),
+    'max_grad_norm': 1000000.0,
+    'output_activation': None,
+    'output_width': 131,
+    'regularization': L1RegularizationLoss(device=cuda, scale=2.000000E-08),
+    'skips': array([[0, 0, 0, 0, 1, 0, 1, 0, 1, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 1, 1, 0, 0, 0, 0, 0, 1],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]),
+    'width': 1024,
+    'width_interpolation_steps_input': 0,
+    'width_interpolation_steps_output': 3}
+---
+neural network:
+Sequential(
+  (0_skip_to_3(130)): SkipConnection()
+  (0_skip_to_5(130)): SkipConnection()
+  (0_skip_to_7(130)): SkipConnection()
+  (0_linear(130,1024)): Linear(in_features=130, out_features=1024, bias=True)
+  (0_swish(1'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (1_linear(1024,1024)): Linear(in_features=1024, out_features=1024, bias=True)
+  (1_swish(0'50)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (2_linear(1024,1024)): Linear(in_features=1024, out_features=1024, bias=True)
+  (2_swish(0'50)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (3_skip_to_8(1024)): SkipConnection()
+  (3_skip_from_0(130)): SkipConnection()
+  (3_linear(1154,1024)): Linear(in_features=1154, out_features=1024, bias=True)
+  (3_swish(0'50)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (4_linear(1024,1024)): Linear(in_features=1024, out_features=1024, bias=True)
+  (4_swish(2'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (5_skip_from_0(130)): SkipConnection()
+  (5_linear(1154,801)): Linear(in_features=1154, out_features=801, bias=True)
+  (5_swish(1'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (6_linear(801,578)): Linear(in_features=801, out_features=578, bias=True)
+  (6_swish(2'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (7_skip_from_0(130)): SkipConnection()
+  (7_linear(708,355)): Linear(in_features=708, out_features=355, bias=True)
+  (7_swish(0'50)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (8_skip_from_3(1024)): SkipConnection()
+  (8_linear(1379,131)): Linear(in_features=1379, out_features=131, bias=True)
+)
+---
+parameter count:
+6286858
+---

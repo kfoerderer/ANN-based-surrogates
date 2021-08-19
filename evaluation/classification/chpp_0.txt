@@ -1,0 +1,43 @@
+learning/statebased/output/2020-08-20_18-18-40_chpp_hwt_state
+learning/statebased/output/2020-08-17_11-55-57_chpp_hwt_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.0
+Testing 50000 arbitrary schedules
+Testing 25000 random strategy schedules
+Testing 25000 reference strategy schedules
+--- 96 time steps ---
+68032 of 100000 schedules classified correctly
+Feasible schedule(s) 	50019
+Infeasible schedule(s) 	49981
+True positives 		18051
+False positives 	0
+True negatives 		49981
+False negatives 	31968
+--- 32 time steps ---
+88767 of 100000 schedules classified correctly
+Feasible schedule(s) 	50019
+Infeasible schedule(s) 	49981
+True positives 		38786
+False positives 	0
+True negatives 		49981
+False negatives 	11233
+--- 24 time steps ---
+91819 of 100000 schedules classified correctly
+Feasible schedule(s) 	50019
+Infeasible schedule(s) 	49981
+True positives 		41838
+False positives 	0
+True negatives 		49981
+False negatives 	8181
+--- 4 time steps ---
+98514 of 100000 schedules classified correctly
+Feasible schedule(s) 	50019
+Infeasible schedule(s) 	49981
+True positives 		48533
+False positives 	0
+True negatives 		49981
+False negatives 	1486
+---

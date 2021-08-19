@@ -1,0 +1,32 @@
+Confidence limits for a proportion
+
+
+Inputs
+
+Sample size 	10000
+Number positive 	9082
+Confidence level 	0.95
+CI method 	Clopper-Pearson exact
+
+
+Results
+
+	 Number positive  	 Sample size  	 Proportion/Prevalence  	 Lower 95 % CL  	Upper 95 % CL 
+Clopper-Pearson exact 	9082 	10000 	0.9082 	0.9024 	0.9138
+
+
+
+Inputs
+
+Sample size 	10000
+Number positive 	9003
+Confidence level 	0.95
+CI method 	Clopper-Pearson exact
+
+
+Results
+
+	 Number positive  	 Sample size  	 Proportion/Prevalence  	 Lower 95 % CL  	Upper 95 % CL 
+Clopper-Pearson exact 	9003 	10000 	0.9003 	0.8943 	0.9061
+
+

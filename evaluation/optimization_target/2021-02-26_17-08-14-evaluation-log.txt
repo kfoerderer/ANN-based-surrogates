@@ -1,0 +1,71 @@
+----------------------------------------------------------------
+Evaluating MCTS results
+----------------------------------------------------------------
+Files: ['2021-02-26_10-13-13_10-BESS_100-evaluation-results-for-8-steps.npy', '2021-02-26_10-21-07_10-BESS_100-evaluation-results-for-32-steps.npy', '2021-02-26_00-02-25_10-EVSE_100-evaluation-results-for-8-steps.npy', '2021-02-26_00-18-11_10-EVSE_100-evaluation-results-for-32-steps.npy', '2021-02-25_15-20-45_10-CHPP_HWT_100-evaluation-results-for-8-steps.npy', '2021-02-25_15-40-56_10-CHPP_HWT_100-evaluation-results-for-32-steps.npy']
+---
+2021-02-26_10-13-13_10-BESS_100-evaluation-results-for-8-steps.npy
+Per device statistics:
+Feasible 1.0
+Ensemble statistics:
+Average absolute error (energy) 213.625
+Average relative error (energy) 0.004159241570426997
+Mean absolute error (power) 106.8125
+Expected mean absolute error (power) by MCTS output 106.8125
+Max delta power distribution [   0.     0.     0.    62.5 3215.  4550. ] (q=[0,0.25,0.5,0.75,0.95,1])
+---
+2021-02-26_10-21-07_10-BESS_100-evaluation-results-for-32-steps.npy
+Per device statistics:
+Feasible 1.0
+Ensemble statistics:
+Average absolute error (energy) 2412.25
+Average relative error (energy) 0.015619932587407919
+Mean absolute error (power) 301.53125
+Expected mean absolute error (power) by MCTS output 301.53125
+Max delta power distribution [    0.  1500.  3375.  4900.  7925. 11650.] (q=[0,0.25,0.5,0.75,0.95,1])
+---
+2021-02-26_00-02-25_10-EVSE_100-evaluation-results-for-8-steps.npy
+Per device statistics:
+Feasible 1.0
+Ensemble statistics:
+Average absolute error (energy) 1378.85
+Average relative error (energy) 0.011282807744286694
+Mean absolute error (power) 689.425
+Expected mean absolute error (power) by MCTS output 689.425
+Max delta power distribution [    0.     0.   990.  3575. 12331. 16940.] (q=[0,0.25,0.5,0.75,0.95,1])
+---
+2021-02-26_00-18-11_10-EVSE_100-evaluation-results-for-32-steps.npy
+Per device statistics:
+Feasible 0.997
+MAE of infeasibles 73.33333333333333
+MSE of infeasibles 169400.0
+Ensemble statistics:
+Average absolute error (energy) 11900.35
+Average relative error (energy) 0.05499986880792552
+Mean absolute error (power) 1487.54375
+Expected mean absolute error (power) by MCTS output 1485.34375
+Max delta power distribution [ 1320.  8030. 11110. 16115. 22011. 38280.] (q=[0,0.25,0.5,0.75,0.95,1])
+---
+2021-02-25_15-20-45_10-CHPP_HWT_100-evaluation-results-for-8-steps.npy
+Per device statistics:
+Feasible 0.973
+MAE of infeasibles 873.125
+MSE of infeasibles 3043906.25
+Ensemble statistics:
+Average absolute error (energy) 2495.625
+Average relative error (energy) 0.11002055466133234
+Mean absolute error (power) 1247.8125
+Expected mean absolute error (power) by MCTS output 1055.3125
+Max delta power distribution [    0.   2062.5  2750.   5500.  11000.  13750. ] (q=[0,0.25,0.5,0.75,0.95,1])
+---
+2021-02-25_15-40-56_10-CHPP_HWT_100-evaluation-results-for-32-steps.npy
+Per device statistics:
+Feasible 0.972
+MAE of infeasibles 218.14903846153845
+MSE of infeasibles 699894.8317307692
+Ensemble statistics:
+Average absolute error (energy) 10752.5
+Average relative error (energy) 0.07665091532887354
+Mean absolute error (power) 1344.0625
+Expected mean absolute error (power) by MCTS output 1311.40625
+Max delta power distribution [ 2750.  5500.  5500.  8250. 13750. 16500.] (q=[0,0.25,0.5,0.75,0.95,1])
+---

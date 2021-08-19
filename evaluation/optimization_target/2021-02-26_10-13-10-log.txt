@@ -1,0 +1,40 @@
+evaluation/schedule_generation/results/bess/state
+evaluation/schedule_generation/results/bess/actions
+----------------------------------------------------------------
+MCTS for optimizing an ensemble
+----------------------------------------------------------------
+Ensemble size 10
+Constraint fuzziness 0.02
+Max MCTS iterations 100
+Exploration steps 5
+--- Schedule length: 8 steps ---
+Generating 100 target schedules
+Saved target schedules to file evaluation/optimization_target/10-BESS_100-target-schedules-of-8-steps.npy
+Conducting MCTS
+Finished MCTS
+Average expected reward -854.5
+Conducting evaluation of found solutions
+Finished evaluation
+Saved evaluation results to file evaluation/optimization_target/10-BESS_100-target-schedules-of-8-steps.npy
+Results:
+Average resulting reward -854.5
+Average absolute delta energy 213.625
+Average relative delta energy 0.004159241570426997
+Average absolute deviation 106.8125
+Max delta power 4550.0
+--- Schedule length: 32 steps ---
+Generating 100 target schedules
+Saved target schedules to file evaluation/optimization_target/10-BESS_100-target-schedules-of-32-steps.npy
+Conducting MCTS
+Finished MCTS
+Average expected reward -9649.0
+Conducting evaluation of found solutions
+Finished evaluation
+Saved evaluation results to file evaluation/optimization_target/10-BESS_100-target-schedules-of-32-steps.npy
+Results:
+Average resulting reward -9649.0
+Average absolute delta energy 2412.25
+Average relative delta energy 0.015619932587407919
+Average absolute deviation 301.53125
+Max delta power 11650.0
+---

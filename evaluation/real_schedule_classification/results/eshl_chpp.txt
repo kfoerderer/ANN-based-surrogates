@@ -1,0 +1,21 @@
+learning/statebased/output/2020-08-20_18-18-40_chpp_hwt_state
+learning/statebased/output/2020-08-17_11-55-57_chpp_hwt_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.01
+Testing 197 real world load profiles
+--- 96 time steps ---
+185 of 197 schedules are correctly reproduced by the simulation model
+Added a temperature offset 56 times
+Feasible schedule(s) 	185, added offset 46 times
+Infeasible schedule(s) 	12, added offset 10 times
+197 of 197 schedules are classified accordingly by the surrogate model 
+True positives 		185
+False positives 	0
+True negatives 		12
+False negatives 	0
+Average temp. delta (ANN) 4.22130771431785 (reference is only an estimate)
+Average temp. delta (Sim) 4.11058896922279 (reference is only an estimate)
+---

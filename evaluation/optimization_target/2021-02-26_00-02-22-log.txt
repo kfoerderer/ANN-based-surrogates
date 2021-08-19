@@ -1,0 +1,40 @@
+evaluation/schedule_generation/results/evse/state
+evaluation/schedule_generation/results/evse/actions
+----------------------------------------------------------------
+MCTS for optimizing an ensemble
+----------------------------------------------------------------
+Ensemble size 10
+Constraint fuzziness 0.02
+Max MCTS iterations 100
+Exploration steps 5
+--- Schedule length: 8 steps ---
+Generating 100 target schedules
+Saved target schedules to file evaluation/optimization_target/10-EVSE_100-target-schedules-of-8-steps.npy
+Conducting MCTS
+Finished MCTS
+Average expected reward -5515.4
+Conducting evaluation of found solutions
+Finished evaluation
+Saved evaluation results to file evaluation/optimization_target/10-EVSE_100-target-schedules-of-8-steps.npy
+Results:
+Average resulting reward -5515.4
+Average absolute delta energy 1378.85
+Average relative delta energy 0.011282807744286694
+Average absolute deviation 689.425
+Max delta power 16940.0
+--- Schedule length: 32 steps ---
+Generating 100 target schedules
+Saved target schedules to file evaluation/optimization_target/10-EVSE_100-target-schedules-of-32-steps.npy
+Conducting MCTS
+Finished MCTS
+Average expected reward -47531.0
+Conducting evaluation of found solutions
+Finished evaluation
+Saved evaluation results to file evaluation/optimization_target/10-EVSE_100-target-schedules-of-32-steps.npy
+Results:
+Average resulting reward -47601.4
+Average absolute delta energy 11900.35
+Average relative delta energy 0.05499986880792552
+Average absolute deviation 1487.54375
+Max delta power 38280.0
+---

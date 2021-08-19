@@ -1,0 +1,43 @@
+learning/statebased/output/2020-08-29_03-55-54_bess_state
+learning/statebased/output/2020-08-30_12-38-07_bess_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.0
+Testing 50000 arbitrary schedules
+Testing 25000 random strategy schedules
+Testing 25000 reference strategy schedules
+--- 96 time steps ---
+95381 of 100000 schedules classified correctly
+Feasible schedule(s) 	61741
+Infeasible schedule(s) 	38259
+True positives 		57124
+False positives 	2
+True negatives 		38257
+False negatives 	4617
+--- 32 time steps ---
+98853 of 100000 schedules classified correctly
+Feasible schedule(s) 	78037
+Infeasible schedule(s) 	21963
+True positives 		76890
+False positives 	0
+True negatives 		21963
+False negatives 	1147
+--- 24 time steps ---
+99205 of 100000 schedules classified correctly
+Feasible schedule(s) 	81301
+Infeasible schedule(s) 	18699
+True positives 		80506
+False positives 	0
+True negatives 		18699
+False negatives 	795
+--- 4 time steps ---
+99957 of 100000 schedules classified correctly
+Feasible schedule(s) 	93752
+Infeasible schedule(s) 	6248
+True positives 		93711
+False positives 	2
+True negatives 		6246
+False negatives 	41
+---

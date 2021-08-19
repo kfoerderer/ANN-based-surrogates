@@ -1,0 +1,102 @@
+meta data:
+{   'ann_output_processor': BatchProcessor([('sgmd', slice(0, 401, None), BatchProcessor([]))]),
+    'dt': 900,
+    'input_processor': BatchProcessor([('nmlz', slice(0, 100, None), BatchProcessor([]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0.]), tensor([4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07, 4.8600e+07,
+        4.8600e+07, 4.8600e+07, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08,
+        4.3200e+08, 4.3200e+08, 4.3200e+08, 4.3200e+08])), ('1', slice(100, 102, None), BatchProcessor([]))]),
+    'model': AggregatedBESS(bess_count=100, capacity=24030000000.0, aggregated_soc=0.43788705501456515, correct_infeasible=True),
+    'output_action_feasibility': True,
+    'output_interaction': False,
+    'output_new_state': False,
+    'output_processor': None,
+    'sampling_parameters': {   'infeasible_chance': 0.6666666666666666,
+                               'soc_distribution': (   [   (0, 0.25),
+                                                           (0.2, 0.5),
+                                                           (0.4, 0.6),
+                                                           (0.5, 0.8),
+                                                           (0.75, 1)],
+                                                       [   0.2857142857142857,
+                                                           0.14285714285714285,
+                                                           0.14285714285714285,
+                                                           0.14285714285714285,
+                                                           0.2857142857142857])}}
+---
+parameters:
+{   'batch_count': 1000.0,
+    'batch_norms': array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0]),
+    'batch_size': 3072,
+    'betas': array([0.5, 0.5, 0.5, 1. , 0.5, 0.5, 2. , 1. , 2. , 0.5]),
+    'dropout': array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0]),
+    'early_stopping_callback': EarlyStoppingCallback(stopping_scores={}, improvement_window=100),
+    'epoch_count': 1000,
+    'hidden_layer_count': 5,
+    'input_width': 102,
+    'learning_rate': 0.001,
+    'loss': MixedLoss([(BCEWithLogitsLoss(), 401)],tensor([1.], device='cuda:0'),cuda),
+    'lr_scheduler': array([<class 'torch.optim.lr_scheduler.StepLR'>, {'step_size': 25, 'gamma': 0.75}], dtype=object),
+    'max_grad_norm': 1000000.0,
+    'output_activation': None,
+    'output_width': 401,
+    'regularization': L1RegularizationLoss(device=cuda, scale=2.000000E-08),
+    'skips': array([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+       [0, 0, 0, 0, 0, 1, 0, 1, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]),
+    'width': 1024,
+    'width_interpolation_steps_input': 0,
+    'width_interpolation_steps_output': 4}
+---
+neural network:
+Sequential(
+  (0_linear(102,1024)): Linear(in_features=102, out_features=1024, bias=True)
+  (0_swish(0'50)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (1_skip_to_3(1024)): SkipConnection()
+  (1_linear(1024,900)): Linear(in_features=1024, out_features=900, bias=True)
+  (1_swish(2'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (2_linear(900,775)): Linear(in_features=900, out_features=775, bias=True)
+  (2_swish(1'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (3_skip_from_1(1024)): SkipConnection()
+  (3_linear(1799,651)): Linear(in_features=1799, out_features=651, bias=True)
+  (3_swish(2'00)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (4_linear(651,526)): Linear(in_features=651, out_features=526, bias=True)
+  (4_swish(0'50)): Swish(
+    (sigmoid): Sigmoid()
+  )
+  (5_linear(526,401)): Linear(in_features=526, out_features=401, bias=True)
+)
+---
+parameter count:
+3452331
+---

@@ -1,0 +1,20 @@
+learning/statebased/output/2020-10-25_23-52-29_gc_bess_state
+learning/statebased/output/2020-10-24_17-04-33_gc_bess_actions
+----------------------------------------------------------------
+Schedule classification
+----------------------------------------------------------------
+Feasibility threshold 0.5
+Constraint fuzziness 0.0
+Testing 666 real world load profiles
+--- 96 time steps ---
+666 of 666 schedules are correctly reproduced by the simulation model
+Feasible schedule(s) 	666
+Infeasible schedule(s) 	0
+666 of 666 schedules are classified accordingly by the surrogate model 
+True positives 		666
+False positives 	0
+True negatives 		0
+False negatives 	0
+Average SOC delta (ANN) 5.0814969116052185e-06 (reference is only an estimate)
+Average SOC delta (Sim) 6.186300645781037e-05 (reference is only an estimate)
+---

@@ -1,0 +1,1873 @@
+Starting job sample-4
+Model sample-4, training epoch 0/999, [0.00037  0.00065  0.000995 0.002297 0.695909]
+Model sample-4, evaluation epoch 0/999, [0.000421 0.000539 0.000572 0.000601 0.000675]
+Learning rate for next epoch is 4.900500E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 1/999, [0.000162 0.000319 0.000385 0.000454 0.000861]
+Model sample-4, evaluation epoch 1/999, [0.00026  0.000363 0.000391 0.000418 0.000483]
+Learning rate for next epoch is 4.851495E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 2/999, [0.000172 0.000262 0.000308 0.000378 0.054332]
+Model sample-4, evaluation epoch 2/999, [0.000228 0.000336 0.000379 0.000416 0.000538]
+Learning rate for next epoch is 4.802980E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 3/999, [0.000126 0.00021  0.000242 0.000284 0.000515]
+Model sample-4, evaluation epoch 3/999, [0.000145 0.000177 0.000195 0.000213 0.00029 ]
+Learning rate for next epoch is 4.754950E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 4/999, [0.000103 0.000187 0.000216 0.000256 0.000556]
+Model sample-4, evaluation epoch 4/999, [0.000136 0.000173 0.000185 0.000195 0.000225]
+Learning rate for next epoch is 4.707401E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 5/999, [0.000103 0.000168 0.000192 0.000222 0.000614]
+Model sample-4, evaluation epoch 5/999, [0.000158 0.000218 0.000246 0.000266 0.000378]
+Learning rate for next epoch is 4.660327E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 6/999, [0.0001   0.000157 0.000182 0.000215 0.000487]
+Model sample-4, evaluation epoch 6/999, [0.000127 0.00017  0.000192 0.000212 0.000257]
+Learning rate for next epoch is 4.613723E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 7/999, [0.000084 0.00014  0.000163 0.000192 0.000455]
+Model sample-4, evaluation epoch 7/999, [0.000085 0.000115 0.000129 0.000147 0.000203]
+Learning rate for next epoch is 4.567586E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 8/999, [0.000085 0.000168 0.000199 0.000244 0.034003]
+Model sample-4, evaluation epoch 8/999, [0.000151 0.000185 0.000207 0.000223 0.000292]
+Learning rate for next epoch is 4.521910E-03
+Number of total cache renewals is 33 and 0
+Model sample-4, training epoch 9/999, [0.000087 0.000144 0.000164 0.000192 0.00064 ]
+Model sample-4, evaluation epoch 9/999, [0.000184 0.000308 0.000354 0.000398 0.000535]
+Learning rate for next epoch is 4.476691E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 10/999, [0.000075 0.000128 0.000153 0.000181 0.000413]
+Model sample-4, evaluation epoch 10/999, [0.000095 0.000128 0.000148 0.000166 0.000229]
+Learning rate for next epoch is 4.431924E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 11/999, [0.000066 0.000121 0.000141 0.000171 0.000375]
+Model sample-4, evaluation epoch 11/999, [0.000086 0.000119 0.000136 0.00015  0.000176]
+Learning rate for next epoch is 4.387605E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 12/999, [0.00006  0.000118 0.000145 0.000184 0.002065]
+Model sample-4, evaluation epoch 12/999, [0.000081 0.000122 0.000141 0.000158 0.000202]
+Learning rate for next epoch is 4.343729E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 13/999, [0.000068 0.000116 0.000138 0.000167 0.000976]
+Model sample-4, evaluation epoch 13/999, [0.000077 0.000104 0.000119 0.000141 0.000193]
+Learning rate for next epoch is 4.300292E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 14/999, [0.000056 0.000106 0.000126 0.000154 0.000814]
+Model sample-4, evaluation epoch 14/999, [0.000071 0.000099 0.000115 0.000136 0.000182]
+Learning rate for next epoch is 4.257289E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 15/999, [0.000059 0.00012  0.000192 0.000259 0.010903]
+Model sample-4, evaluation epoch 15/999, [0.000169 0.000223 0.000243 0.000262 0.000318]
+Learning rate for next epoch is 4.214716E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 16/999, [0.0001   0.000159 0.00018  0.000204 0.000488]
+Model sample-4, evaluation epoch 16/999, [0.000125 0.000154 0.000172 0.000197 0.000244]
+Learning rate for next epoch is 4.172569E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 17/999, [0.000093 0.00014  0.000159 0.000184 0.003314]
+Model sample-4, evaluation epoch 17/999, [0.000097 0.000119 0.000129 0.000141 0.000193]
+Learning rate for next epoch is 4.130843E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 18/999, [0.00008  0.000122 0.000141 0.000163 0.000456]
+Model sample-4, evaluation epoch 18/999, [0.000111 0.000166 0.000195 0.000222 0.000303]
+Learning rate for next epoch is 4.089535E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 19/999, [0.000062 0.000113 0.000131 0.000154 0.000328]
+Model sample-4, evaluation epoch 19/999, [0.000082 0.000106 0.00012  0.000132 0.000198]
+Learning rate for next epoch is 4.048639E-03
+Number of total cache renewals is 34 and 0
+Model sample-4, training epoch 20/999, [0.00006  0.000106 0.000123 0.000148 0.000433]
+Model sample-4, evaluation epoch 20/999, [0.000068 0.0001   0.000114 0.00013  0.000191]
+Learning rate for next epoch is 4.008153E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 21/999, [0.000055 0.000098 0.000115 0.000136 0.000404]
+Model sample-4, evaluation epoch 21/999, [0.00006  0.000102 0.000118 0.000137 0.000216]
+Learning rate for next epoch is 3.968071E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 22/999, [0.00005  0.000093 0.000112 0.000137 0.000281]
+Model sample-4, evaluation epoch 22/999, [0.000093 0.000147 0.000165 0.000185 0.00024 ]
+Learning rate for next epoch is 3.928391E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 23/999, [0.000055 0.000111 0.000136 0.000171 0.002182]
+Model sample-4, evaluation epoch 23/999, [0.000096 0.00015  0.000175 0.000198 0.000272]
+Learning rate for next epoch is 3.889107E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 24/999, [0.000066 0.000113 0.000132 0.000156 0.000343]
+Model sample-4, evaluation epoch 24/999, [0.000073 0.000116 0.000139 0.000163 0.000204]
+Learning rate for next epoch is 3.850216E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 25/999, [0.000055 0.000099 0.000114 0.000135 0.000295]
+Model sample-4, evaluation epoch 25/999, [0.000058 0.00008  0.000092 0.000105 0.000143]
+Learning rate for next epoch is 3.811714E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 26/999, [0.000056 0.00009  0.000108 0.000129 0.000393]
+Model sample-4, evaluation epoch 26/999, [0.000057 0.000076 0.000089 0.0001   0.000134]
+Learning rate for next epoch is 3.773596E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 27/999, [0.000048 0.000085 0.000102 0.000122 0.000276]
+Model sample-4, evaluation epoch 27/999, [0.000062 0.000082 0.000097 0.000112 0.000159]
+Learning rate for next epoch is 3.735860E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 28/999, [0.000045 0.000082 0.000097 0.000118 0.000267]
+Model sample-4, evaluation epoch 28/999, [0.000055 0.000076 0.000092 0.000108 0.000159]
+Learning rate for next epoch is 3.698502E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 29/999, [0.000041 0.000077 0.000092 0.000111 0.000397]
+Model sample-4, evaluation epoch 29/999, [0.00005  0.000069 0.00008  0.000094 0.00013 ]
+Learning rate for next epoch is 3.661517E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 30/999, [0.000039 0.000072 0.000087 0.000106 0.00028 ]
+Model sample-4, evaluation epoch 30/999, [0.000039 0.000066 0.000075 0.000094 0.000118]
+Learning rate for next epoch is 3.624902E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 31/999, [0.000038 0.00008  0.000105 0.000135 0.04571 ]
+Model sample-4, evaluation epoch 31/999, [0.000086 0.000112 0.000127 0.000149 0.00021 ]
+Learning rate for next epoch is 3.588653E-03
+Number of total cache renewals is 35 and 0
+Model sample-4, training epoch 32/999, [0.000057 0.000091 0.000106 0.000122 0.000304]
+Model sample-4, evaluation epoch 32/999, [0.000064 0.000091 0.000106 0.000128 0.000181]
+Learning rate for next epoch is 3.552766E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 33/999, [0.000048 0.00008  0.000094 0.000112 0.000306]
+Model sample-4, evaluation epoch 33/999, [0.000071 0.000092 0.000105 0.000131 0.000238]
+Learning rate for next epoch is 3.517238E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 34/999, [0.00004  0.000076 0.000091 0.00011  0.000323]
+Model sample-4, evaluation epoch 34/999, [0.000053 0.000081 0.000097 0.000125 0.000212]
+Learning rate for next epoch is 3.482066E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 35/999, [0.000041 0.00007  0.000085 0.000101 0.000288]
+Model sample-4, evaluation epoch 35/999, [0.000044 0.00006  0.000074 0.000103 0.000168]
+Learning rate for next epoch is 3.447245E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 36/999, [0.000037 0.000066 0.00008  0.000096 0.000184]
+Model sample-4, evaluation epoch 36/999, [0.00005  0.000072 0.000089 0.000124 0.000196]
+Learning rate for next epoch is 3.412773E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 37/999, [0.000037 0.000067 0.000081 0.000099 0.000278]
+Model sample-4, evaluation epoch 37/999, [0.00003  0.00006  0.000073 0.000091 0.000155]
+Learning rate for next epoch is 3.378645E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 38/999, [0.00003  0.000063 0.000076 0.000097 0.000319]
+Model sample-4, evaluation epoch 38/999, [0.000042 0.000064 0.000081 0.000102 0.00016 ]
+Learning rate for next epoch is 3.344859E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 39/999, [0.000027 0.000061 0.000075 0.000091 0.00031 ]
+Model sample-4, evaluation epoch 39/999, [0.000033 0.00005  0.000062 0.000078 0.000124]
+Learning rate for next epoch is 3.311410E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 40/999, [0.000033 0.000087 0.000108 0.000136 0.010517]
+Model sample-4, evaluation epoch 40/999, [0.000057 0.00009  0.000104 0.000129 0.000178]
+Learning rate for next epoch is 3.278296E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 41/999, [0.000042 0.000075 0.000087 0.000104 0.000225]
+Model sample-4, evaluation epoch 41/999, [0.00005  0.000072 0.000081 0.000105 0.000149]
+Learning rate for next epoch is 3.245513E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 42/999, [0.000039 0.00007  0.000084 0.000103 0.000309]
+Model sample-4, evaluation epoch 42/999, [0.000048 0.000072 0.000085 0.000107 0.000157]
+Learning rate for next epoch is 3.213058E-03
+Number of total cache renewals is 36 and 0
+Model sample-4, training epoch 43/999, [0.000035 0.000064 0.000078 0.000095 0.000231]
+Model sample-4, evaluation epoch 43/999, [0.000062 0.000108 0.000129 0.000142 0.000212]
+Learning rate for next epoch is 3.180927E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 44/999, [0.000031 0.000059 0.000072 0.000088 0.000202]
+Model sample-4, evaluation epoch 44/999, [0.000037 0.000053 0.000062 0.000083 0.000126]
+Learning rate for next epoch is 3.149118E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 45/999, [0.000028 0.000056 0.00007  0.000088 0.000276]
+Model sample-4, evaluation epoch 45/999, [0.000032 0.00005  0.000058 0.000079 0.000123]
+Learning rate for next epoch is 3.117627E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 46/999, [0.000025 0.000054 0.000066 0.000081 0.000208]
+Model sample-4, evaluation epoch 46/999, [0.000041 0.000065 0.000082 0.000098 0.000159]
+Learning rate for next epoch is 3.086451E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 47/999, [0.000024 0.000052 0.000065 0.00008  0.000272]
+Model sample-4, evaluation epoch 47/999, [0.000036 0.000063 0.000077 0.000093 0.000167]
+Learning rate for next epoch is 3.055586E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 48/999, [0.000024 0.00005  0.000064 0.000077 0.000177]
+Model sample-4, evaluation epoch 48/999, [0.000033 0.000056 0.00007  0.000091 0.000144]
+Learning rate for next epoch is 3.025030E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 49/999, [0.000024 0.000049 0.000062 0.000078 0.000256]
+Model sample-4, evaluation epoch 49/999, [0.000023 0.000054 0.000066 0.000083 0.000162]
+Learning rate for next epoch is 2.994780E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 50/999, [0.000025 0.000049 0.000061 0.000077 0.000225]
+Model sample-4, evaluation epoch 50/999, [0.00002  0.00004  0.000051 0.000067 0.000109]
+Learning rate for next epoch is 2.964832E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 51/999, [0.000023 0.000045 0.000059 0.000074 0.000181]
+Model sample-4, evaluation epoch 51/999, [0.000023 0.000042 0.000051 0.000071 0.000105]
+Learning rate for next epoch is 2.935184E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 52/999, [0.000024 0.000045 0.000057 0.000074 0.00032 ]
+Model sample-4, evaluation epoch 52/999, [0.000021 0.000058 0.000074 0.000086 0.000133]
+Learning rate for next epoch is 2.905832E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 53/999, [0.000021 0.000044 0.000055 0.000069 0.000208]
+Model sample-4, evaluation epoch 53/999, [0.000026 0.000042 0.000056 0.000071 0.000117]
+Learning rate for next epoch is 2.876774E-03
+Number of total cache renewals is 37 and 0
+Model sample-4, training epoch 54/999, [0.000021 0.000045 0.000057 0.000073 0.000249]
+Model sample-4, evaluation epoch 54/999, [0.000024 0.00004  0.000052 0.000066 0.000099]
+Learning rate for next epoch is 2.848006E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 55/999, [0.000017 0.000044 0.000055 0.000071 0.000236]
+Model sample-4, evaluation epoch 55/999, [0.000025 0.000038 0.00005  0.00006  0.000099]
+Learning rate for next epoch is 2.819526E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 56/999, [0.000017 0.000042 0.000054 0.00007  0.000152]
+Model sample-4, evaluation epoch 56/999, [0.000024 0.00004  0.000051 0.000061 0.000097]
+Learning rate for next epoch is 2.791331E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 57/999, [0.000019 0.000043 0.000054 0.00007  0.000213]
+Model sample-4, evaluation epoch 57/999, [0.000026 0.000045 0.000053 0.000068 0.000117]
+Learning rate for next epoch is 2.763417E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 58/999, [0.000018 0.000042 0.000055 0.000071 0.000277]
+Model sample-4, evaluation epoch 58/999, [0.000028 0.000059 0.000072 0.000098 0.000164]
+Learning rate for next epoch is 2.735783E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 59/999, [0.000018 0.00004  0.000052 0.000068 0.00019 ]
+Model sample-4, evaluation epoch 59/999, [0.000021 0.000047 0.000055 0.000072 0.000128]
+Learning rate for next epoch is 2.708425E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 60/999, [0.000015 0.00004  0.000051 0.000065 0.000183]
+Model sample-4, evaluation epoch 60/999, [0.00002  0.000041 0.000054 0.000071 0.000117]
+Learning rate for next epoch is 2.681341E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 61/999, [0.000017 0.00004  0.00005  0.000066 0.000219]
+Model sample-4, evaluation epoch 61/999, [0.000027 0.000044 0.000058 0.000068 0.000121]
+Learning rate for next epoch is 2.654528E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 62/999, [0.000017 0.000042 0.000052 0.000068 0.0002  ]
+Model sample-4, evaluation epoch 62/999, [0.000018 0.000038 0.000052 0.000067 0.000099]
+Learning rate for next epoch is 2.627982E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 63/999, [0.000016 0.00004  0.00005  0.000066 0.000167]
+Model sample-4, evaluation epoch 63/999, [0.000018 0.000043 0.000056 0.00007  0.000131]
+Learning rate for next epoch is 2.601703E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 64/999, [0.000015 0.000038 0.000049 0.000064 0.000155]
+Model sample-4, evaluation epoch 64/999, [0.000018 0.000037 0.000047 0.000058 0.00009 ]
+Learning rate for next epoch is 2.575686E-03
+Number of total cache renewals is 38 and 0
+Model sample-4, training epoch 65/999, [0.000014 0.000037 0.000048 0.000061 0.000243]
+Model sample-4, evaluation epoch 65/999, [0.000022 0.000042 0.000053 0.000069 0.0001  ]
+Learning rate for next epoch is 2.549929E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 66/999, [0.000014 0.000038 0.000049 0.000062 0.000314]
+Model sample-4, evaluation epoch 66/999, [0.000012 0.000033 0.000041 0.000058 0.000096]
+Learning rate for next epoch is 2.524429E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 67/999, [0.000015 0.000038 0.000047 0.000062 0.00021 ]
+Model sample-4, evaluation epoch 67/999, [0.000012 0.000031 0.000041 0.000054 0.000092]
+Learning rate for next epoch is 2.499185E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 68/999, [0.000014 0.000036 0.000047 0.000059 0.000189]
+Model sample-4, evaluation epoch 68/999, [0.000018 0.000035 0.000046 0.000058 0.000101]
+Learning rate for next epoch is 2.474193E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 69/999, [0.000012 0.000036 0.000046 0.00006  0.000188]
+Model sample-4, evaluation epoch 69/999, [0.00002  0.000032 0.000039 0.000048 0.000088]
+Learning rate for next epoch is 2.449451E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 70/999, [0.000013 0.000035 0.000044 0.000057 0.00015 ]
+Model sample-4, evaluation epoch 70/999, [0.000017 0.000036 0.000045 0.000054 0.000097]
+Learning rate for next epoch is 2.424957E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 71/999, [0.000012 0.000035 0.000046 0.00006  0.000164]
+Model sample-4, evaluation epoch 71/999, [0.000019 0.000033 0.00004  0.000054 0.000094]
+Learning rate for next epoch is 2.400707E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 72/999, [0.000013 0.000034 0.000043 0.000058 0.000151]
+Model sample-4, evaluation epoch 72/999, [0.000022 0.000045 0.000057 0.00007  0.000135]
+Learning rate for next epoch is 2.376700E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 73/999, [0.000014 0.000035 0.000046 0.000059 0.000207]
+Model sample-4, evaluation epoch 73/999, [0.000014 0.00003  0.000038 0.000046 0.000069]
+Learning rate for next epoch is 2.352933E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 74/999, [0.000011 0.000033 0.000042 0.000055 0.000144]
+Model sample-4, evaluation epoch 74/999, [0.00002  0.000036 0.000048 0.000061 0.000092]
+Learning rate for next epoch is 2.329404E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 75/999, [0.000012 0.000033 0.000042 0.000055 0.000203]
+Model sample-4, evaluation epoch 75/999, [0.000017 0.000042 0.000058 0.000076 0.000107]
+Learning rate for next epoch is 2.306110E-03
+Number of total cache renewals is 39 and 0
+Model sample-4, training epoch 76/999, [0.000012 0.000034 0.000043 0.000055 0.00015 ]
+Model sample-4, evaluation epoch 76/999, [0.000015 0.000028 0.000036 0.000044 0.000075]
+Learning rate for next epoch is 2.283049E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 77/999, [0.000011 0.000032 0.000042 0.000055 0.000256]
+Model sample-4, evaluation epoch 77/999, [0.00002  0.000041 0.00005  0.000065 0.000096]
+Learning rate for next epoch is 2.260218E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 78/999, [0.000011 0.000033 0.000042 0.000055 0.000239]
+Model sample-4, evaluation epoch 78/999, [0.000016 0.000033 0.000041 0.000054 0.000092]
+Learning rate for next epoch is 2.237616E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 79/999, [0.000012 0.000032 0.000042 0.000054 0.000187]
+Model sample-4, evaluation epoch 79/999, [0.000013 0.000034 0.000041 0.000052 0.000084]
+Learning rate for next epoch is 2.215240E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 80/999, [0.000011 0.000032 0.000041 0.000054 0.000163]
+Model sample-4, evaluation epoch 80/999, [0.000018 0.000036 0.000044 0.000056 0.000104]
+Learning rate for next epoch is 2.193088E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 81/999, [0.000012 0.000032 0.000041 0.000054 0.000173]
+Model sample-4, evaluation epoch 81/999, [0.000013 0.00003  0.000037 0.000048 0.000085]
+Learning rate for next epoch is 2.171157E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 82/999, [0.000013 0.000032 0.000041 0.000055 0.000259]
+Model sample-4, evaluation epoch 82/999, [0.000017 0.000027 0.000037 0.000045 0.000069]
+Learning rate for next epoch is 2.149445E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 83/999, [0.000013 0.000031 0.000041 0.000053 0.000188]
+Model sample-4, evaluation epoch 83/999, [0.000012 0.00003  0.000041 0.000051 0.000081]
+Learning rate for next epoch is 2.127951E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 84/999, [0.000011 0.000031 0.00004  0.000051 0.000135]
+Model sample-4, evaluation epoch 84/999, [0.00001  0.000027 0.000033 0.000042 0.000064]
+Learning rate for next epoch is 2.106671E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 85/999, [0.000012 0.000031 0.000041 0.000052 0.000294]
+Model sample-4, evaluation epoch 85/999, [0.000019 0.000038 0.000048 0.000056 0.000094]
+Learning rate for next epoch is 2.085604E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 86/999, [0.000012 0.000029 0.000038 0.000052 0.000136]
+Model sample-4, evaluation epoch 86/999, [0.00001  0.000022 0.00003  0.000039 0.000055]
+Learning rate for next epoch is 2.064748E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 87/999, [0.000011 0.000031 0.000039 0.000053 0.000146]
+Model sample-4, evaluation epoch 87/999, [0.000017 0.00004  0.000054 0.000074 0.000135]
+Learning rate for next epoch is 2.044101E-03
+Number of total cache renewals is 40 and 0
+Model sample-4, training epoch 88/999, [0.000012 0.000028 0.000038 0.000051 0.000161]
+Model sample-4, evaluation epoch 88/999, [0.000028 0.000054 0.000072 0.000094 0.000211]
+Learning rate for next epoch is 2.023660E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 89/999, [0.000013 0.00003  0.000039 0.00005  0.000154]
+Model sample-4, evaluation epoch 89/999, [0.000012 0.00004  0.000053 0.000067 0.000118]
+Learning rate for next epoch is 2.003423E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 90/999, [0.00001  0.000029 0.000038 0.00005  0.000115]
+Model sample-4, evaluation epoch 90/999, [0.000011 0.000027 0.000035 0.000042 0.000092]
+Learning rate for next epoch is 1.983389E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 91/999, [0.000011 0.000029 0.000037 0.000049 0.000148]
+Model sample-4, evaluation epoch 91/999, [0.000013 0.000026 0.000032 0.000041 0.000063]
+Learning rate for next epoch is 1.963555E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 92/999, [0.00001  0.000029 0.000038 0.000049 0.000118]
+Model sample-4, evaluation epoch 92/999, [0.000017 0.000043 0.000057 0.000069 0.000132]
+Learning rate for next epoch is 1.943920E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 93/999, [0.000011 0.000029 0.000038 0.000048 0.000172]
+Model sample-4, evaluation epoch 93/999, [0.000013 0.000025 0.000031 0.000039 0.000053]
+Learning rate for next epoch is 1.924480E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 94/999, [0.00001  0.000028 0.000036 0.000048 0.000136]
+Model sample-4, evaluation epoch 94/999, [0.00001  0.000023 0.000029 0.000039 0.000066]
+Learning rate for next epoch is 1.905236E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 95/999, [0.000008 0.000028 0.000037 0.000049 0.000153]
+Model sample-4, evaluation epoch 95/999, [0.000012 0.000025 0.000032 0.00004  0.000055]
+Learning rate for next epoch is 1.886183E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 96/999, [0.000011 0.000028 0.000038 0.00005  0.000153]
+Model sample-4, evaluation epoch 96/999, [0.000012 0.000032 0.000043 0.000059 0.000136]
+Learning rate for next epoch is 1.867321E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 97/999, [0.000011 0.000028 0.000036 0.000048 0.000143]
+Model sample-4, evaluation epoch 97/999, [0.000009 0.00003  0.000035 0.000041 0.000083]
+Learning rate for next epoch is 1.848648E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 98/999, [0.00001  0.000027 0.000035 0.000047 0.000136]
+Model sample-4, evaluation epoch 98/999, [0.000008 0.000037 0.000047 0.00006  0.000099]
+Learning rate for next epoch is 1.830162E-03
+Number of total cache renewals is 41 and 0
+Model sample-4, training epoch 99/999, [0.000009 0.000027 0.000035 0.000047 0.000112]
+Model sample-4, evaluation epoch 99/999, [0.000014 0.000026 0.000035 0.000043 0.000076]
+Learning rate for next epoch is 1.811860E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 100/999, [0.00001  0.000026 0.000035 0.000046 0.000124]
+Model sample-4, evaluation epoch 100/999, [0.000015 0.000027 0.000033 0.000045 0.000087]
+Learning rate for next epoch is 1.793741E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 101/999, [0.00001  0.000026 0.000035 0.000046 0.000114]
+Model sample-4, evaluation epoch 101/999, [0.000009 0.000026 0.000034 0.000041 0.000071]
+Learning rate for next epoch is 1.775804E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 102/999, [0.000009 0.000025 0.000033 0.000044 0.000175]
+Model sample-4, evaluation epoch 102/999, [0.000014 0.000023 0.00003  0.000037 0.000066]
+Learning rate for next epoch is 1.758046E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 103/999, [0.000009 0.000026 0.000034 0.000044 0.000134]
+Model sample-4, evaluation epoch 103/999, [0.000013 0.000027 0.000036 0.000051 0.000083]
+Learning rate for next epoch is 1.740466E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 104/999, [0.000007 0.000025 0.000035 0.000046 0.00011 ]
+Model sample-4, evaluation epoch 104/999, [0.000008 0.000027 0.000035 0.000045 0.000075]
+Learning rate for next epoch is 1.723061E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 105/999, [0.000009 0.000025 0.000033 0.000045 0.000158]
+Model sample-4, evaluation epoch 105/999, [0.000013 0.000023 0.000029 0.000038 0.000056]
+Learning rate for next epoch is 1.705830E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 106/999, [0.000009 0.000025 0.000033 0.000045 0.000099]
+Model sample-4, evaluation epoch 106/999, [0.000008 0.000021 0.000029 0.000038 0.00008 ]
+Learning rate for next epoch is 1.688772E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 107/999, [0.000009 0.000026 0.000034 0.000045 0.000112]
+Model sample-4, evaluation epoch 107/999, [0.000012 0.000025 0.000034 0.000045 0.000068]
+Learning rate for next epoch is 1.671884E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 108/999, [0.000009 0.000025 0.000032 0.000043 0.000152]
+Model sample-4, evaluation epoch 108/999, [0.000008 0.000021 0.000028 0.000037 0.000071]
+Learning rate for next epoch is 1.655165E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 109/999, [0.000007 0.000024 0.000032 0.000043 0.000115]
+Model sample-4, evaluation epoch 109/999, [0.000014 0.000026 0.000032 0.00004  0.000074]
+Learning rate for next epoch is 1.638614E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 110/999, [0.000008 0.000024 0.000031 0.000043 0.000102]
+Model sample-4, evaluation epoch 110/999, [0.000015 0.000034 0.000045 0.000059 0.000106]
+Learning rate for next epoch is 1.622228E-03
+Number of total cache renewals is 42 and 0
+Model sample-4, training epoch 111/999, [0.000009 0.000023 0.000031 0.000041 0.000134]
+Model sample-4, evaluation epoch 111/999, [0.00001  0.000022 0.000029 0.000038 0.000062]
+Learning rate for next epoch is 1.606005E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 112/999, [0.000007 0.000023 0.000032 0.000043 0.000128]
+Model sample-4, evaluation epoch 112/999, [0.000007 0.000023 0.000029 0.000036 0.000059]
+Learning rate for next epoch is 1.589945E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 113/999, [0.000007 0.000023 0.000031 0.000042 0.000126]
+Model sample-4, evaluation epoch 113/999, [0.000008 0.000021 0.000026 0.000036 0.000053]
+Learning rate for next epoch is 1.574046E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 114/999, [0.000007 0.000023 0.000031 0.000042 0.000157]
+Model sample-4, evaluation epoch 114/999, [0.000006 0.00002  0.000027 0.000036 0.000065]
+Learning rate for next epoch is 1.558305E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 115/999, [0.000007 0.000024 0.000031 0.000042 0.000128]
+Model sample-4, evaluation epoch 115/999, [0.000011 0.000023 0.00003  0.000043 0.00009 ]
+Learning rate for next epoch is 1.542722E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 116/999, [0.000006 0.000022 0.00003  0.000041 0.000127]
+Model sample-4, evaluation epoch 116/999, [0.000008 0.00002  0.000027 0.000038 0.000061]
+Learning rate for next epoch is 1.527295E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 117/999, [0.000008 0.000023 0.000031 0.000041 0.000121]
+Model sample-4, evaluation epoch 117/999, [0.000007 0.000025 0.000038 0.000047 0.000096]
+Learning rate for next epoch is 1.512022E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 118/999, [0.000009 0.000022 0.00003  0.00004  0.000128]
+Model sample-4, evaluation epoch 118/999, [0.000006 0.000022 0.00003  0.000039 0.000066]
+Learning rate for next epoch is 1.496902E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 119/999, [0.000008 0.000022 0.00003  0.000041 0.00013 ]
+Model sample-4, evaluation epoch 119/999, [0.000009 0.000021 0.000029 0.000042 0.000084]
+Learning rate for next epoch is 1.481933E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 120/999, [0.000008 0.000022 0.00003  0.00004  0.000125]
+Model sample-4, evaluation epoch 120/999, [0.000007 0.000021 0.000028 0.000038 0.000067]
+Learning rate for next epoch is 1.467114E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 121/999, [0.000007 0.000022 0.00003  0.000041 0.000107]
+Model sample-4, evaluation epoch 121/999, [0.000009 0.000031 0.000041 0.000051 0.000097]
+Learning rate for next epoch is 1.452442E-03
+Number of total cache renewals is 43 and 0
+Model sample-4, training epoch 122/999, [0.000007 0.00002  0.000028 0.000038 0.000111]
+Model sample-4, evaluation epoch 122/999, [0.000007 0.000022 0.000027 0.000037 0.000074]
+Learning rate for next epoch is 1.437918E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 123/999, [0.000007 0.000022 0.000031 0.000041 0.000136]
+Model sample-4, evaluation epoch 123/999, [0.000011 0.00002  0.000026 0.000033 0.000051]
+Learning rate for next epoch is 1.423539E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 124/999, [0.000007 0.000021 0.000029 0.000039 0.000128]
+Model sample-4, evaluation epoch 124/999, [0.000009 0.000021 0.000028 0.000036 0.000057]
+Learning rate for next epoch is 1.409303E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 125/999, [0.000008 0.000021 0.000028 0.000038 0.000139]
+Model sample-4, evaluation epoch 125/999, [0.00001  0.000031 0.00004  0.000054 0.000106]
+Learning rate for next epoch is 1.395210E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 126/999, [0.000007 0.000021 0.000029 0.000039 0.000099]
+Model sample-4, evaluation epoch 126/999, [0.000007 0.000019 0.000026 0.000033 0.000056]
+Learning rate for next epoch is 1.381258E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 127/999, [0.000007 0.000021 0.000028 0.000039 0.000186]
+Model sample-4, evaluation epoch 127/999, [0.000007 0.000021 0.000029 0.00004  0.000083]
+Learning rate for next epoch is 1.367446E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 128/999, [0.000007 0.00002  0.000027 0.000037 0.000122]
+Model sample-4, evaluation epoch 128/999, [0.000014 0.000028 0.000038 0.00005  0.000099]
+Learning rate for next epoch is 1.353771E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 129/999, [0.000007 0.00002  0.000028 0.000038 0.000099]
+Model sample-4, evaluation epoch 129/999, [0.000011 0.000027 0.000037 0.00005  0.000082]
+Learning rate for next epoch is 1.340234E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 130/999, [0.000005 0.000021 0.000028 0.000038 0.00012 ]
+Model sample-4, evaluation epoch 130/999, [0.000009 0.000018 0.000025 0.000034 0.000065]
+Learning rate for next epoch is 1.326831E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 131/999, [0.000006 0.00002  0.000029 0.000039 0.000105]
+Model sample-4, evaluation epoch 131/999, [0.000009 0.000022 0.000026 0.000032 0.000056]
+Learning rate for next epoch is 1.313563E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 132/999, [0.000006 0.00002  0.000028 0.000038 0.000109]
+Model sample-4, evaluation epoch 132/999, [0.000007 0.000018 0.000024 0.000032 0.000057]
+Learning rate for next epoch is 1.300427E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 133/999, [0.000006 0.00002  0.000027 0.000037 0.000118]
+Model sample-4, evaluation epoch 133/999, [0.00001  0.000021 0.000026 0.000034 0.000053]
+Learning rate for next epoch is 1.287423E-03
+Number of total cache renewals is 44 and 0
+Model sample-4, training epoch 134/999, [0.000007 0.000019 0.000026 0.000035 0.000233]
+Model sample-4, evaluation epoch 134/999, [0.000005 0.00002  0.000026 0.000033 0.000055]
+Learning rate for next epoch is 1.274549E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 135/999, [0.000007 0.00002  0.000027 0.000037 0.000142]
+Model sample-4, evaluation epoch 135/999, [0.000008 0.000024 0.00003  0.00004  0.000062]
+Learning rate for next epoch is 1.261803E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 136/999, [0.000005 0.00002  0.000027 0.000036 0.000117]
+Model sample-4, evaluation epoch 136/999, [0.000009 0.000023 0.000032 0.000049 0.000078]
+Learning rate for next epoch is 1.249185E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 137/999, [0.000007 0.000019 0.000026 0.000035 0.000155]
+Model sample-4, evaluation epoch 137/999, [0.000008 0.000018 0.000025 0.000039 0.000059]
+Learning rate for next epoch is 1.236693E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 138/999, [0.000007 0.000019 0.000026 0.000036 0.000111]
+Model sample-4, evaluation epoch 138/999, [0.000009 0.000019 0.000025 0.000033 0.000055]
+Learning rate for next epoch is 1.224326E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 139/999, [0.000007 0.000019 0.000026 0.000036 0.00014 ]
+Model sample-4, evaluation epoch 139/999, [0.000006 0.000024 0.000033 0.000045 0.000074]
+Learning rate for next epoch is 1.212083E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 140/999, [0.000007 0.000018 0.000026 0.000035 0.000089]
+Model sample-4, evaluation epoch 140/999, [0.000005 0.000015 0.000021 0.000028 0.000049]
+Learning rate for next epoch is 1.199962E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 141/999, [0.000006 0.000019 0.000026 0.000035 0.000093]
+Model sample-4, evaluation epoch 141/999, [0.000009 0.000021 0.000027 0.000038 0.000077]
+Learning rate for next epoch is 1.187963E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 142/999, [0.000006 0.000018 0.000025 0.000034 0.000089]
+Model sample-4, evaluation epoch 142/999, [0.000006 0.000016 0.000025 0.000033 0.000057]
+Learning rate for next epoch is 1.176083E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 143/999, [0.000005 0.000019 0.000025 0.000035 0.000112]
+Model sample-4, evaluation epoch 143/999, [0.000007 0.000015 0.000025 0.000036 0.00007 ]
+Learning rate for next epoch is 1.164322E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 144/999, [0.000005 0.000018 0.000025 0.000032 0.000125]
+Model sample-4, evaluation epoch 144/999, [0.000007 0.000017 0.000023 0.000029 0.000047]
+Learning rate for next epoch is 1.152679E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 145/999, [0.000005 0.000018 0.000024 0.000034 0.000099]
+Model sample-4, evaluation epoch 145/999, [0.000005 0.000018 0.000024 0.000033 0.000084]
+Learning rate for next epoch is 1.141152E-03
+Number of total cache renewals is 45 and 0
+Model sample-4, training epoch 146/999, [0.000005 0.000018 0.000024 0.000034 0.000105]
+Model sample-4, evaluation epoch 146/999, [0.000006 0.000017 0.000024 0.000031 0.000045]
+Learning rate for next epoch is 1.129741E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 147/999, [0.000006 0.000017 0.000024 0.000033 0.000121]
+Model sample-4, evaluation epoch 147/999, [0.000006 0.000018 0.000023 0.000031 0.000055]
+Learning rate for next epoch is 1.118443E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 148/999, [0.000005 0.000017 0.000024 0.000033 0.000083]
+Model sample-4, evaluation epoch 148/999, [0.000005 0.000023 0.00003  0.000042 0.000083]
+Learning rate for next epoch is 1.107259E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 149/999, [0.000006 0.000018 0.000023 0.000032 0.000115]
+Model sample-4, evaluation epoch 149/999, [0.000005 0.000016 0.000023 0.000032 0.000056]
+Learning rate for next epoch is 1.096186E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 150/999, [0.000005 0.000018 0.000024 0.000033 0.000117]
+Model sample-4, evaluation epoch 150/999, [0.000007 0.00002  0.000028 0.000034 0.000058]
+Learning rate for next epoch is 1.085224E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 151/999, [0.000006 0.000017 0.000023 0.000031 0.000115]
+Model sample-4, evaluation epoch 151/999, [0.000006 0.000021 0.000029 0.000037 0.000074]
+Learning rate for next epoch is 1.074372E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 152/999, [0.000007 0.000017 0.000024 0.000032 0.000129]
+Model sample-4, evaluation epoch 152/999, [0.000006 0.000019 0.000024 0.000035 0.000053]
+Learning rate for next epoch is 1.063629E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 153/999, [0.000005 0.000017 0.000024 0.000034 0.000115]
+Model sample-4, evaluation epoch 153/999, [0.000009 0.000034 0.000048 0.000077 0.000132]
+Learning rate for next epoch is 1.052992E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 154/999, [0.000005 0.000016 0.000023 0.000032 0.000087]
+Model sample-4, evaluation epoch 154/999, [0.000006 0.000018 0.000026 0.000037 0.000065]
+Learning rate for next epoch is 1.042462E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 155/999, [0.000005 0.000017 0.000023 0.000032 0.000116]
+Model sample-4, evaluation epoch 155/999, [0.000004 0.000016 0.000021 0.000028 0.000057]
+Learning rate for next epoch is 1.032038E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 156/999, [0.000005 0.000016 0.000023 0.000032 0.000108]
+Model sample-4, evaluation epoch 156/999, [0.000006 0.00002  0.000025 0.000037 0.000066]
+Learning rate for next epoch is 1.021717E-03
+Number of total cache renewals is 46 and 0
+Model sample-4, training epoch 157/999, [0.000005 0.000016 0.000023 0.00003  0.000086]
+Model sample-4, evaluation epoch 157/999, [0.000005 0.000017 0.000024 0.000034 0.000087]
+Learning rate for next epoch is 1.011500E-03
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 158/999, [0.000005 0.000017 0.000023 0.000032 0.000105]
+Model sample-4, evaluation epoch 158/999, [0.000005 0.000015 0.000021 0.000028 0.000052]
+Learning rate for next epoch is 1.001385E-03
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 159/999, [0.000006 0.000016 0.000023 0.000033 0.000162]
+Model sample-4, evaluation epoch 159/999, [0.000005 0.000015 0.000022 0.000029 0.000055]
+Learning rate for next epoch is 9.913713E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 160/999, [0.000005 0.000016 0.000022 0.000031 0.000085]
+Model sample-4, evaluation epoch 160/999, [0.000006 0.000021 0.000029 0.000036 0.000099]
+Learning rate for next epoch is 9.814576E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 161/999, [0.000005 0.000016 0.000022 0.00003  0.000093]
+Model sample-4, evaluation epoch 161/999, [0.000005 0.000014 0.000021 0.000028 0.000053]
+Learning rate for next epoch is 9.716430E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 162/999, [0.000005 0.000016 0.000022 0.00003  0.000091]
+Model sample-4, evaluation epoch 162/999, [0.000006 0.000017 0.000022 0.000032 0.000051]
+Learning rate for next epoch is 9.619266E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 163/999, [0.000005 0.000016 0.000023 0.000031 0.000083]
+Model sample-4, evaluation epoch 163/999, [0.000006 0.000015 0.00002  0.000024 0.000056]
+Learning rate for next epoch is 9.523073E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 164/999, [0.000006 0.000016 0.000022 0.000031 0.000137]
+Model sample-4, evaluation epoch 164/999, [0.000006 0.000015 0.000021 0.000027 0.000043]
+Learning rate for next epoch is 9.427842E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 165/999, [0.000005 0.000015 0.000021 0.00003  0.000093]
+Model sample-4, evaluation epoch 165/999, [0.000006 0.000015 0.000022 0.000031 0.000054]
+Learning rate for next epoch is 9.333564E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 166/999, [0.000005 0.000015 0.000021 0.00003  0.000129]
+Model sample-4, evaluation epoch 166/999, [0.000007 0.000017 0.000027 0.000037 0.000073]
+Learning rate for next epoch is 9.240228E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 167/999, [0.000004 0.000015 0.000021 0.000029 0.000077]
+Model sample-4, evaluation epoch 167/999, [0.000006 0.000019 0.000027 0.000036 0.000074]
+Learning rate for next epoch is 9.147826E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 168/999, [0.000004 0.000015 0.000022 0.000031 0.000106]
+Model sample-4, evaluation epoch 168/999, [0.000006 0.000018 0.000024 0.000034 0.000053]
+Learning rate for next epoch is 9.056348E-04
+Number of total cache renewals is 47 and 0
+Model sample-4, training epoch 169/999, [0.000005 0.000015 0.000021 0.000029 0.000099]
+Model sample-4, evaluation epoch 169/999, [0.000005 0.000016 0.000021 0.000029 0.000055]
+Learning rate for next epoch is 8.965784E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 170/999, [0.000005 0.000015 0.000021 0.000029 0.000118]
+Model sample-4, evaluation epoch 170/999, [0.000006 0.00002  0.00003  0.000043 0.000106]
+Learning rate for next epoch is 8.876126E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 171/999, [0.000005 0.000016 0.000021 0.000029 0.000109]
+Model sample-4, evaluation epoch 171/999, [0.000005 0.000021 0.000027 0.000038 0.00008 ]
+Learning rate for next epoch is 8.787365E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 172/999, [0.000005 0.000015 0.000021 0.000029 0.000092]
+Model sample-4, evaluation epoch 172/999, [0.000004 0.000015 0.000021 0.000029 0.000057]
+Learning rate for next epoch is 8.699491E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 173/999, [0.000005 0.000014 0.00002  0.000029 0.000102]
+Model sample-4, evaluation epoch 173/999, [0.000007 0.000017 0.000023 0.000031 0.000063]
+Learning rate for next epoch is 8.612497E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 174/999, [0.000004 0.000014 0.00002  0.000028 0.000105]
+Model sample-4, evaluation epoch 174/999, [0.000004 0.000012 0.000018 0.000028 0.000049]
+Learning rate for next epoch is 8.526372E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 175/999, [0.000005 0.000015 0.000021 0.00003  0.000112]
+Model sample-4, evaluation epoch 175/999, [0.000008 0.000028 0.000037 0.000049 0.000098]
+Learning rate for next epoch is 8.441108E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 176/999, [0.000005 0.000015 0.000021 0.000029 0.000077]
+Model sample-4, evaluation epoch 176/999, [0.000006 0.000013 0.000018 0.000026 0.000048]
+Learning rate for next epoch is 8.356697E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 177/999, [0.000005 0.000015 0.000021 0.000029 0.000168]
+Model sample-4, evaluation epoch 177/999, [0.000004 0.000018 0.000023 0.000036 0.000061]
+Learning rate for next epoch is 8.273130E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 178/999, [0.000004 0.000013 0.00002  0.000028 0.000092]
+Model sample-4, evaluation epoch 178/999, [0.000005 0.000018 0.000023 0.000032 0.000078]
+Learning rate for next epoch is 8.190398E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 179/999, [0.000005 0.000014 0.000019 0.000027 0.000074]
+Model sample-4, evaluation epoch 179/999, [0.000004 0.000014 0.00002  0.000026 0.000058]
+Learning rate for next epoch is 8.108495E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 180/999, [0.000005 0.000014 0.00002  0.000028 0.000091]
+Model sample-4, evaluation epoch 180/999, [0.000004 0.000011 0.000017 0.000024 0.000066]
+Learning rate for next epoch is 8.027410E-04
+Number of total cache renewals is 48 and 0
+Model sample-4, training epoch 181/999, [0.000004 0.000013 0.000019 0.000027 0.000084]
+Model sample-4, evaluation epoch 181/999, [0.000006 0.000016 0.000019 0.000027 0.000049]
+Learning rate for next epoch is 7.947135E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 182/999, [0.000004 0.000014 0.000019 0.000027 0.000085]
+Model sample-4, evaluation epoch 182/999, [0.000004 0.000013 0.00002  0.000029 0.000058]
+Learning rate for next epoch is 7.867664E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 183/999, [0.000004 0.000013 0.000019 0.000027 0.000089]
+Model sample-4, evaluation epoch 183/999, [0.000006 0.000016 0.000023 0.00003  0.000059]
+Learning rate for next epoch is 7.788987E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 184/999, [0.000005 0.000013 0.000019 0.000026 0.000072]
+Model sample-4, evaluation epoch 184/999, [0.000004 0.000011 0.000018 0.000024 0.000043]
+Learning rate for next epoch is 7.711098E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 185/999, [0.000005 0.000013 0.000018 0.000026 0.00009 ]
+Model sample-4, evaluation epoch 185/999, [0.000005 0.000012 0.000018 0.000023 0.000047]
+Learning rate for next epoch is 7.633987E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 186/999, [0.000004 0.000013 0.000018 0.000026 0.000123]
+Model sample-4, evaluation epoch 186/999, [0.000004 0.000011 0.000015 0.000019 0.000041]
+Learning rate for next epoch is 7.557647E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 187/999, [0.000004 0.000013 0.000018 0.000025 0.000072]
+Model sample-4, evaluation epoch 187/999, [0.000005 0.000013 0.000016 0.000022 0.000036]
+Learning rate for next epoch is 7.482070E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 188/999, [0.000004 0.000013 0.000018 0.000025 0.000101]
+Model sample-4, evaluation epoch 188/999, [0.000004 0.000013 0.000019 0.000026 0.000061]
+Learning rate for next epoch is 7.407250E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 189/999, [0.000004 0.000012 0.000018 0.000026 0.000083]
+Model sample-4, evaluation epoch 189/999, [0.000004 0.000011 0.000017 0.000025 0.000045]
+Learning rate for next epoch is 7.333177E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 190/999, [0.000004 0.000013 0.000018 0.000025 0.000115]
+Model sample-4, evaluation epoch 190/999, [0.000004 0.000013 0.000018 0.000028 0.000076]
+Learning rate for next epoch is 7.259845E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 191/999, [0.000004 0.000013 0.000019 0.000027 0.000097]
+Model sample-4, evaluation epoch 191/999, [0.000004 0.000012 0.000016 0.000024 0.000052]
+Learning rate for next epoch is 7.187247E-04
+Number of total cache renewals is 49 and 0
+Model sample-4, training epoch 192/999, [0.000004 0.000012 0.000018 0.000026 0.000084]
+Model sample-4, evaluation epoch 192/999, [0.000004 0.000017 0.000023 0.000031 0.000061]
+Learning rate for next epoch is 7.115374E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 193/999, [0.000004 0.000013 0.000019 0.000026 0.000148]
+Model sample-4, evaluation epoch 193/999, [0.000005 0.000016 0.000023 0.000031 0.000052]
+Learning rate for next epoch is 7.044221E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 194/999, [0.000004 0.000012 0.000018 0.000026 0.000072]
+Model sample-4, evaluation epoch 194/999, [0.000005 0.000013 0.000018 0.000024 0.00004 ]
+Learning rate for next epoch is 6.973778E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 195/999, [0.000004 0.000012 0.000017 0.000025 0.00009 ]
+Model sample-4, evaluation epoch 195/999, [0.000005 0.000012 0.000017 0.000027 0.000066]
+Learning rate for next epoch is 6.904041E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 196/999, [0.000004 0.000012 0.000018 0.000025 0.000086]
+Model sample-4, evaluation epoch 196/999, [0.000005 0.000012 0.000016 0.000022 0.000045]
+Learning rate for next epoch is 6.835000E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 197/999, [0.000004 0.000013 0.000018 0.000026 0.000086]
+Model sample-4, evaluation epoch 197/999, [0.000004 0.00001  0.000015 0.00002  0.000039]
+Learning rate for next epoch is 6.766650E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 198/999, [0.000004 0.000012 0.000018 0.000025 0.000081]
+Model sample-4, evaluation epoch 198/999, [0.000005 0.000013 0.000019 0.000026 0.000067]
+Learning rate for next epoch is 6.698984E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 199/999, [0.000004 0.000012 0.000017 0.000025 0.000087]
+Model sample-4, evaluation epoch 199/999, [0.000004 0.000012 0.000016 0.000022 0.000044]
+Learning rate for next epoch is 6.631994E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 200/999, [0.000004 0.000012 0.000017 0.000025 0.000111]
+Model sample-4, evaluation epoch 200/999, [0.000004 0.000014 0.000019 0.000029 0.000048]
+Learning rate for next epoch is 6.565674E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 201/999, [0.000004 0.000012 0.000018 0.000026 0.000118]
+Model sample-4, evaluation epoch 201/999, [0.000004 0.00001  0.000016 0.000021 0.000034]
+Learning rate for next epoch is 6.500017E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 202/999, [0.000004 0.000013 0.000018 0.000025 0.000114]
+Model sample-4, evaluation epoch 202/999, [0.000004 0.000012 0.000017 0.000023 0.000037]
+Learning rate for next epoch is 6.435017E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 203/999, [0.000004 0.000012 0.000018 0.000024 0.000099]
+Model sample-4, evaluation epoch 203/999, [0.000004 0.000011 0.000018 0.000023 0.000044]
+Learning rate for next epoch is 6.370667E-04
+Number of total cache renewals is 50 and 0
+Model sample-4, training epoch 204/999, [0.000004 0.000012 0.000017 0.000025 0.00009 ]
+Model sample-4, evaluation epoch 204/999, [0.000004 0.000012 0.000019 0.000031 0.000053]
+Learning rate for next epoch is 6.306960E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 205/999, [0.000004 0.000012 0.000017 0.000025 0.000143]
+Model sample-4, evaluation epoch 205/999, [0.000004 0.000011 0.000017 0.000023 0.000048]
+Learning rate for next epoch is 6.243891E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 206/999, [0.000004 0.000012 0.000017 0.000024 0.000071]
+Model sample-4, evaluation epoch 206/999, [0.000004 0.000011 0.000016 0.000022 0.000058]
+Learning rate for next epoch is 6.181452E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 207/999, [0.000004 0.000012 0.000017 0.000025 0.000115]
+Model sample-4, evaluation epoch 207/999, [0.000004 0.000012 0.000019 0.000028 0.000063]
+Learning rate for next epoch is 6.119637E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 208/999, [0.000004 0.000012 0.000017 0.000025 0.000108]
+Model sample-4, evaluation epoch 208/999, [0.000005 0.000013 0.000018 0.000025 0.000045]
+Learning rate for next epoch is 6.058441E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 209/999, [0.000004 0.000011 0.000016 0.000023 0.00008 ]
+Model sample-4, evaluation epoch 209/999, [0.000004 0.000011 0.000015 0.00002  0.000043]
+Learning rate for next epoch is 5.997856E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 210/999, [0.000004 0.000011 0.000017 0.000024 0.000084]
+Model sample-4, evaluation epoch 210/999, [0.000004 0.000011 0.000017 0.000022 0.000041]
+Learning rate for next epoch is 5.937878E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 211/999, [0.000004 0.000011 0.000016 0.000024 0.000083]
+Model sample-4, evaluation epoch 211/999, [0.000004 0.000011 0.000016 0.000022 0.000048]
+Learning rate for next epoch is 5.878499E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 212/999, [0.000004 0.000011 0.000016 0.000023 0.000083]
+Model sample-4, evaluation epoch 212/999, [0.000005 0.000012 0.000017 0.000024 0.000053]
+Learning rate for next epoch is 5.819714E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 213/999, [0.000004 0.000012 0.000017 0.000025 0.000079]
+Model sample-4, evaluation epoch 213/999, [0.000004 0.000012 0.000016 0.000021 0.000031]
+Learning rate for next epoch is 5.761517E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 214/999, [0.000004 0.000011 0.000016 0.000023 0.000092]
+Model sample-4, evaluation epoch 214/999, [0.000004 0.000012 0.000017 0.000026 0.000057]
+Learning rate for next epoch is 5.703902E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 215/999, [0.000005 0.000011 0.000016 0.000024 0.000092]
+Model sample-4, evaluation epoch 215/999, [0.000004 0.00001  0.000015 0.000021 0.000032]
+Learning rate for next epoch is 5.646863E-04
+Number of total cache renewals is 51 and 0
+Model sample-4, training epoch 216/999, [0.000004 0.000011 0.000016 0.000022 0.000083]
+Model sample-4, evaluation epoch 216/999, [0.000004 0.000014 0.000019 0.000026 0.000044]
+Learning rate for next epoch is 5.590394E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 217/999, [0.000004 0.00001  0.000016 0.000023 0.000099]
+Model sample-4, evaluation epoch 217/999, [0.000004 0.000016 0.000024 0.000034 0.000102]
+Learning rate for next epoch is 5.534490E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 218/999, [0.000004 0.000011 0.000016 0.000023 0.000064]
+Model sample-4, evaluation epoch 218/999, [0.000005 0.000013 0.000017 0.000027 0.000064]
+Learning rate for next epoch is 5.479145E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 219/999, [0.000004 0.00001  0.000015 0.000022 0.000108]
+Model sample-4, evaluation epoch 219/999, [0.000004 0.000012 0.000016 0.000025 0.000058]
+Learning rate for next epoch is 5.424354E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 220/999, [0.000004 0.00001  0.000015 0.000022 0.000088]
+Model sample-4, evaluation epoch 220/999, [0.000005 0.000013 0.000021 0.000031 0.000059]
+Learning rate for next epoch is 5.370110E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 221/999, [0.000004 0.00001  0.000015 0.000022 0.000067]
+Model sample-4, evaluation epoch 221/999, [0.000004 0.000009 0.000013 0.000018 0.000038]
+Learning rate for next epoch is 5.316409E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 222/999, [0.000004 0.000011 0.000015 0.000023 0.000085]
+Model sample-4, evaluation epoch 222/999, [0.000004 0.00001  0.000013 0.00002  0.000034]
+Learning rate for next epoch is 5.263245E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 223/999, [0.000004 0.00001  0.000014 0.000021 0.000082]
+Model sample-4, evaluation epoch 223/999, [0.000005 0.00001  0.000016 0.000021 0.000051]
+Learning rate for next epoch is 5.210613E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 224/999, [0.000004 0.00001  0.000015 0.000022 0.000073]
+Model sample-4, evaluation epoch 224/999, [0.000004 0.00001  0.000013 0.000017 0.00004 ]
+Learning rate for next epoch is 5.158507E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 225/999, [0.000004 0.00001  0.000014 0.000021 0.000102]
+Model sample-4, evaluation epoch 225/999, [0.000004 0.00001  0.000015 0.000021 0.000042]
+Learning rate for next epoch is 5.106921E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 226/999, [0.000004 0.00001  0.000015 0.000021 0.000081]
+Model sample-4, evaluation epoch 226/999, [0.000004 0.000009 0.000012 0.000017 0.000035]
+Learning rate for next epoch is 5.055852E-04
+Number of total cache renewals is 52 and 0
+Model sample-4, training epoch 227/999, [0.000004 0.00001  0.000014 0.000021 0.000092]
+Model sample-4, evaluation epoch 227/999, [0.000004 0.000012 0.000018 0.000026 0.000052]
+Learning rate for next epoch is 5.005294E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 228/999, [0.000004 0.00001  0.000015 0.000021 0.000099]
+Model sample-4, evaluation epoch 228/999, [0.000004 0.000009 0.000013 0.000019 0.00005 ]
+Learning rate for next epoch is 4.955241E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 229/999, [0.000003 0.000009 0.000014 0.000021 0.000057]
+Model sample-4, evaluation epoch 229/999, [0.000005 0.000012 0.000019 0.000027 0.000056]
+Learning rate for next epoch is 4.905688E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 230/999, [0.000004 0.000009 0.000014 0.000021 0.000067]
+Model sample-4, evaluation epoch 230/999, [0.000004 0.000013 0.000019 0.000031 0.000065]
+Learning rate for next epoch is 4.856631E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 231/999, [0.000004 0.000009 0.000013 0.000021 0.000078]
+Model sample-4, evaluation epoch 231/999, [0.000004 0.000012 0.000015 0.000022 0.000049]
+Learning rate for next epoch is 4.808065E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 232/999, [0.000003 0.000009 0.000014 0.000021 0.00007 ]
+Model sample-4, evaluation epoch 232/999, [0.000004 0.000009 0.000013 0.000018 0.000048]
+Learning rate for next epoch is 4.759985E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 233/999, [0.000004 0.00001  0.000014 0.00002  0.000079]
+Model sample-4, evaluation epoch 233/999, [0.000004 0.000009 0.000013 0.000021 0.000052]
+Learning rate for next epoch is 4.712385E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 234/999, [0.000004 0.000009 0.000014 0.000021 0.000069]
+Model sample-4, evaluation epoch 234/999, [0.000003 0.00001  0.000012 0.000018 0.000034]
+Learning rate for next epoch is 4.665261E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 235/999, [0.000004 0.000009 0.000013 0.00002  0.000104]
+Model sample-4, evaluation epoch 235/999, [0.000003 0.000012 0.000018 0.000028 0.000055]
+Learning rate for next epoch is 4.618608E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 236/999, [0.000003 0.000009 0.000013 0.00002  0.000066]
+Model sample-4, evaluation epoch 236/999, [0.000004 0.000011 0.000015 0.000022 0.000043]
+Learning rate for next epoch is 4.572422E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 237/999, [0.000003 0.000009 0.000014 0.000021 0.000157]
+Model sample-4, evaluation epoch 237/999, [0.000003 0.000009 0.000012 0.000017 0.000031]
+Learning rate for next epoch is 4.526698E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 238/999, [0.000004 0.000009 0.000014 0.00002  0.000066]
+Model sample-4, evaluation epoch 238/999, [0.000003 0.000012 0.000018 0.000028 0.000058]
+Learning rate for next epoch is 4.481431E-04
+Number of total cache renewals is 53 and 0
+Model sample-4, training epoch 239/999, [0.000004 0.000009 0.000013 0.00002  0.00009 ]
+Model sample-4, evaluation epoch 239/999, [0.000004 0.000011 0.000016 0.000024 0.000058]
+Learning rate for next epoch is 4.436617E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 240/999, [0.000004 0.000009 0.000014 0.00002  0.000082]
+Model sample-4, evaluation epoch 240/999, [0.000003 0.000011 0.000016 0.000024 0.000066]
+Learning rate for next epoch is 4.392250E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 241/999, [0.000003 0.000009 0.000013 0.000019 0.000087]
+Model sample-4, evaluation epoch 241/999, [0.000004 0.000011 0.00002  0.000031 0.000085]
+Learning rate for next epoch is 4.348328E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 242/999, [0.000003 0.000009 0.000013 0.00002  0.000058]
+Model sample-4, evaluation epoch 242/999, [0.000003 0.000009 0.000013 0.000018 0.00004 ]
+Learning rate for next epoch is 4.304845E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 243/999, [0.000004 0.000009 0.000013 0.00002  0.000107]
+Model sample-4, evaluation epoch 243/999, [0.000004 0.000009 0.000011 0.000017 0.000031]
+Learning rate for next epoch is 4.261796E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 244/999, [0.000004 0.000009 0.000013 0.00002  0.000059]
+Model sample-4, evaluation epoch 244/999, [0.000003 0.000009 0.000013 0.000018 0.000045]
+Learning rate for next epoch is 4.219178E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 245/999, [0.000003 0.000009 0.000013 0.000019 0.00009 ]
+Model sample-4, evaluation epoch 245/999, [0.000003 0.000008 0.000012 0.000017 0.000039]
+Learning rate for next epoch is 4.176986E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 246/999, [0.000004 0.000009 0.000013 0.00002  0.000083]
+Model sample-4, evaluation epoch 246/999, [0.000003 0.000009 0.000013 0.00002  0.000045]
+Learning rate for next epoch is 4.135217E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 247/999, [0.000003 0.000009 0.000013 0.000019 0.000065]
+Model sample-4, evaluation epoch 247/999, [0.000003 0.000008 0.000013 0.000019 0.000044]
+Learning rate for next epoch is 4.093864E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 248/999, [0.000003 0.000009 0.000013 0.00002  0.00008 ]
+Model sample-4, evaluation epoch 248/999, [0.000003 0.000009 0.000013 0.000019 0.000048]
+Learning rate for next epoch is 4.052926E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 249/999, [0.000003 0.000009 0.000013 0.000019 0.000084]
+Model sample-4, evaluation epoch 249/999, [0.000003 0.000009 0.000014 0.000018 0.000031]
+Learning rate for next epoch is 4.012397E-04
+Number of total cache renewals is 54 and 0
+Model sample-4, training epoch 250/999, [0.000003 0.000008 0.000013 0.000019 0.000082]
+Model sample-4, evaluation epoch 250/999, [0.000003 0.000011 0.000016 0.000027 0.00007 ]
+Learning rate for next epoch is 3.972273E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 251/999, [0.000003 0.000009 0.000013 0.000019 0.000085]
+Model sample-4, evaluation epoch 251/999, [0.000004 0.000009 0.000014 0.000019 0.000044]
+Learning rate for next epoch is 3.932550E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 252/999, [0.000003 0.000008 0.000012 0.000018 0.000063]
+Model sample-4, evaluation epoch 252/999, [0.000003 0.00001  0.000016 0.000023 0.000044]
+Learning rate for next epoch is 3.893224E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 253/999, [0.000003 0.000009 0.000013 0.00002  0.000101]
+Model sample-4, evaluation epoch 253/999, [0.000004 0.000009 0.000013 0.000017 0.00004 ]
+Learning rate for next epoch is 3.854292E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 254/999, [0.000003 0.000008 0.000013 0.000019 0.00007 ]
+Model sample-4, evaluation epoch 254/999, [0.000003 0.000008 0.000013 0.000017 0.00003 ]
+Learning rate for next epoch is 3.815749E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 255/999, [0.000004 0.000008 0.000012 0.000018 0.000063]
+Model sample-4, evaluation epoch 255/999, [0.000003 0.000008 0.000012 0.000017 0.000039]
+Learning rate for next epoch is 3.777592E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 256/999, [0.000003 0.000008 0.000012 0.000019 0.000076]
+Model sample-4, evaluation epoch 256/999, [0.000003 0.000007 0.00001  0.000013 0.000049]
+Learning rate for next epoch is 3.739816E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 257/999, [0.000003 0.000008 0.000012 0.000018 0.000067]
+Model sample-4, evaluation epoch 257/999, [0.000003 0.000008 0.000011 0.000015 0.000034]
+Learning rate for next epoch is 3.702418E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 258/999, [0.000003 0.000008 0.000013 0.000019 0.000072]
+Model sample-4, evaluation epoch 258/999, [0.000003 0.000008 0.000012 0.000017 0.000063]
+Learning rate for next epoch is 3.665393E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 259/999, [0.000003 0.000008 0.000012 0.000018 0.000064]
+Model sample-4, evaluation epoch 259/999, [0.000003 0.000008 0.000011 0.000016 0.000035]
+Learning rate for next epoch is 3.628740E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 260/999, [0.000003 0.000008 0.000012 0.000018 0.00008 ]
+Model sample-4, evaluation epoch 260/999, [0.000003 0.000009 0.000012 0.00002  0.000062]
+Learning rate for next epoch is 3.592452E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 261/999, [0.000003 0.000008 0.000012 0.000017 0.000076]
+Model sample-4, evaluation epoch 261/999, [0.000003 0.000008 0.000011 0.000016 0.000029]
+Learning rate for next epoch is 3.556528E-04
+Number of total cache renewals is 55 and 0
+Model sample-4, training epoch 262/999, [0.000004 0.000008 0.000012 0.000019 0.00006 ]
+Model sample-4, evaluation epoch 262/999, [0.000003 0.000009 0.000014 0.00002  0.000059]
+Learning rate for next epoch is 3.520962E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 263/999, [0.000003 0.000008 0.000011 0.000018 0.00008 ]
+Model sample-4, evaluation epoch 263/999, [0.000003 0.000007 0.000011 0.000016 0.000041]
+Learning rate for next epoch is 3.485753E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 264/999, [0.000003 0.000008 0.000012 0.000018 0.000059]
+Model sample-4, evaluation epoch 264/999, [0.000003 0.000008 0.000011 0.000015 0.000043]
+Learning rate for next epoch is 3.450895E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 265/999, [0.000003 0.000008 0.000012 0.000017 0.000064]
+Model sample-4, evaluation epoch 265/999, [0.000004 0.000009 0.000016 0.000022 0.000046]
+Learning rate for next epoch is 3.416386E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 266/999, [0.000003 0.000008 0.000012 0.000018 0.000087]
+Model sample-4, evaluation epoch 266/999, [0.000003 0.000008 0.000011 0.000016 0.000031]
+Learning rate for next epoch is 3.382222E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 267/999, [0.000003 0.000008 0.000012 0.000018 0.000073]
+Model sample-4, evaluation epoch 267/999, [0.000003 0.000009 0.000013 0.000018 0.000064]
+Learning rate for next epoch is 3.348400E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 268/999, [0.000003 0.000008 0.000012 0.000018 0.000055]
+Model sample-4, evaluation epoch 268/999, [0.000003 0.000007 0.000011 0.000017 0.000039]
+Learning rate for next epoch is 3.314916E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 269/999, [0.000003 0.000008 0.000012 0.000017 0.000063]
+Model sample-4, evaluation epoch 269/999, [0.000003 0.000009 0.000014 0.000022 0.000048]
+Learning rate for next epoch is 3.281767E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 270/999, [0.000003 0.000008 0.000012 0.000018 0.000054]
+Model sample-4, evaluation epoch 270/999, [0.000003 0.000009 0.000012 0.000018 0.000035]
+Learning rate for next epoch is 3.248949E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 271/999, [0.000003 0.000007 0.000011 0.000017 0.000071]
+Model sample-4, evaluation epoch 271/999, [0.000004 0.000008 0.000013 0.000019 0.000048]
+Learning rate for next epoch is 3.216460E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 272/999, [0.000003 0.000007 0.000011 0.000017 0.000093]
+Model sample-4, evaluation epoch 272/999, [0.000003 0.000009 0.000013 0.00002  0.000038]
+Learning rate for next epoch is 3.184295E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 273/999, [0.000003 0.000007 0.000011 0.000017 0.000103]
+Model sample-4, evaluation epoch 273/999, [0.000003 0.000007 0.000011 0.000017 0.000035]
+Learning rate for next epoch is 3.152452E-04
+Number of total cache renewals is 56 and 0
+Model sample-4, training epoch 274/999, [0.000003 0.000007 0.000011 0.000016 0.000062]
+Model sample-4, evaluation epoch 274/999, [0.000003 0.000008 0.000013 0.00002  0.000033]
+Learning rate for next epoch is 3.120928E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 275/999, [0.000003 0.000007 0.000011 0.000017 0.000077]
+Model sample-4, evaluation epoch 275/999, [0.000003 0.000008 0.000012 0.000016 0.000031]
+Learning rate for next epoch is 3.089718E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 276/999, [0.000003 0.000007 0.000011 0.000017 0.00011 ]
+Model sample-4, evaluation epoch 276/999, [0.000003 0.000008 0.000013 0.000019 0.000037]
+Learning rate for next epoch is 3.058821E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 277/999, [0.000003 0.000007 0.000011 0.000017 0.00006 ]
+Model sample-4, evaluation epoch 277/999, [0.000004 0.000007 0.000011 0.000018 0.000034]
+Learning rate for next epoch is 3.028233E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 278/999, [0.000003 0.000007 0.00001  0.000016 0.000065]
+Model sample-4, evaluation epoch 278/999, [0.000003 0.000007 0.000011 0.000016 0.000028]
+Learning rate for next epoch is 2.997951E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 279/999, [0.000003 0.000007 0.000011 0.000017 0.000072]
+Model sample-4, evaluation epoch 279/999, [0.000003 0.000011 0.000016 0.000025 0.000048]
+Learning rate for next epoch is 2.967971E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 280/999, [0.000003 0.000007 0.000011 0.000016 0.000082]
+Model sample-4, evaluation epoch 280/999, [0.000003 0.000007 0.00001  0.000014 0.000038]
+Learning rate for next epoch is 2.938292E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 281/999, [0.000003 0.000007 0.000011 0.000016 0.000079]
+Model sample-4, evaluation epoch 281/999, [0.000003 0.000008 0.000012 0.000018 0.000046]
+Learning rate for next epoch is 2.908909E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 282/999, [0.000003 0.000007 0.000011 0.000017 0.000075]
+Model sample-4, evaluation epoch 282/999, [0.000003 0.000008 0.000011 0.000018 0.000042]
+Learning rate for next epoch is 2.879820E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 283/999, [0.000003 0.000007 0.000011 0.000016 0.000053]
+Model sample-4, evaluation epoch 283/999, [0.000003 0.000007 0.00001  0.000015 0.000029]
+Learning rate for next epoch is 2.851021E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 284/999, [0.000003 0.000007 0.00001  0.000016 0.000082]
+Model sample-4, evaluation epoch 284/999, [0.000003 0.000007 0.000013 0.000019 0.000036]
+Learning rate for next epoch is 2.822511E-04
+Number of total cache renewals is 57 and 0
+Model sample-4, training epoch 285/999, [0.000003 0.000007 0.000011 0.000016 0.00005 ]
+Model sample-4, evaluation epoch 285/999, [0.000003 0.000008 0.000011 0.000016 0.000045]
+Learning rate for next epoch is 2.794286E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 286/999, [0.000003 0.000007 0.00001  0.000016 0.000067]
+Model sample-4, evaluation epoch 286/999, [0.000003 0.000007 0.000011 0.000015 0.000037]
+Learning rate for next epoch is 2.766343E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 287/999, [0.000003 0.000007 0.00001  0.000016 0.000079]
+Model sample-4, evaluation epoch 287/999, [0.000003 0.00001  0.000017 0.000026 0.000063]
+Learning rate for next epoch is 2.738680E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 288/999, [0.000003 0.000007 0.000011 0.000016 0.000085]
+Model sample-4, evaluation epoch 288/999, [0.000003 0.000007 0.00001  0.000014 0.000033]
+Learning rate for next epoch is 2.711293E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 289/999, [0.000003 0.000007 0.00001  0.000015 0.000048]
+Model sample-4, evaluation epoch 289/999, [0.000003 0.000007 0.000013 0.000021 0.000048]
+Learning rate for next epoch is 2.684180E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 290/999, [0.000003 0.000006 0.00001  0.000015 0.00008 ]
+Model sample-4, evaluation epoch 290/999, [0.000003 0.000007 0.000009 0.000015 0.000042]
+Learning rate for next epoch is 2.657338E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 291/999, [0.000003 0.000006 0.00001  0.000015 0.000064]
+Model sample-4, evaluation epoch 291/999, [0.000003 0.000008 0.000013 0.000017 0.00004 ]
+Learning rate for next epoch is 2.630765E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 292/999, [0.000003 0.000006 0.00001  0.000015 0.000056]
+Model sample-4, evaluation epoch 292/999, [0.000003 0.000008 0.000012 0.000018 0.000057]
+Learning rate for next epoch is 2.604457E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 293/999, [0.000003 0.000007 0.00001  0.000015 0.000055]
+Model sample-4, evaluation epoch 293/999, [0.000003 0.000006 0.000008 0.000012 0.00003 ]
+Learning rate for next epoch is 2.578413E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 294/999, [0.000003 0.000006 0.00001  0.000015 0.000073]
+Model sample-4, evaluation epoch 294/999, [0.000003 0.000007 0.00001  0.000015 0.000028]
+Learning rate for next epoch is 2.552628E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 295/999, [0.000003 0.000006 0.00001  0.000015 0.000065]
+Model sample-4, evaluation epoch 295/999, [0.000003 0.000007 0.00001  0.000014 0.000034]
+Learning rate for next epoch is 2.527102E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 296/999, [0.000003 0.000007 0.00001  0.000015 0.000065]
+Model sample-4, evaluation epoch 296/999, [0.000003 0.000007 0.000009 0.000015 0.000036]
+Learning rate for next epoch is 2.501831E-04
+Number of total cache renewals is 58 and 0
+Model sample-4, training epoch 297/999, [0.000003 0.000006 0.00001  0.000015 0.000076]
+Model sample-4, evaluation epoch 297/999, [0.000003 0.000007 0.000011 0.000018 0.000049]
+Learning rate for next epoch is 2.476813E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 298/999, [0.000003 0.000006 0.00001  0.000015 0.000072]
+Model sample-4, evaluation epoch 298/999, [0.000003 0.000008 0.000011 0.000017 0.000031]
+Learning rate for next epoch is 2.452045E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 299/999, [0.000003 0.000006 0.000009 0.000014 0.000045]
+Model sample-4, evaluation epoch 299/999, [0.000003 0.000007 0.000013 0.000016 0.000037]
+Learning rate for next epoch is 2.427524E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 300/999, [0.000003 0.000006 0.00001  0.000015 0.000072]
+Model sample-4, evaluation epoch 300/999, [0.000003 0.000007 0.000011 0.000014 0.000033]
+Learning rate for next epoch is 2.403249E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 301/999, [0.000003 0.000006 0.00001  0.000015 0.000056]
+Model sample-4, evaluation epoch 301/999, [0.000003 0.000007 0.000011 0.000015 0.000032]
+Learning rate for next epoch is 2.379217E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 302/999, [0.000003 0.000006 0.00001  0.000015 0.000067]
+Model sample-4, evaluation epoch 302/999, [0.000003 0.000007 0.00001  0.000015 0.000036]
+Learning rate for next epoch is 2.355424E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 303/999, [0.000003 0.000006 0.00001  0.000014 0.000072]
+Model sample-4, evaluation epoch 303/999, [0.000003 0.000008 0.000012 0.000019 0.000057]
+Learning rate for next epoch is 2.331870E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 304/999, [0.000003 0.000006 0.00001  0.000015 0.00005 ]
+Model sample-4, evaluation epoch 304/999, [0.000003 0.000006 0.000011 0.000016 0.000039]
+Learning rate for next epoch is 2.308551E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 305/999, [0.000003 0.000006 0.000009 0.000014 0.000062]
+Model sample-4, evaluation epoch 305/999, [0.000003 0.000006 0.000009 0.000014 0.000039]
+Learning rate for next epoch is 2.285466E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 306/999, [0.000003 0.000006 0.000009 0.000014 0.000059]
+Model sample-4, evaluation epoch 306/999, [0.000003 0.000006 0.000009 0.000015 0.000027]
+Learning rate for next epoch is 2.262611E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 307/999, [0.000003 0.000006 0.000009 0.000014 0.000069]
+Model sample-4, evaluation epoch 307/999, [0.000003 0.000007 0.000013 0.000021 0.000044]
+Learning rate for next epoch is 2.239985E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 308/999, [0.000003 0.000006 0.000009 0.000014 0.000058]
+Model sample-4, evaluation epoch 308/999, [0.000003 0.000006 0.000011 0.000017 0.00004 ]
+Learning rate for next epoch is 2.217585E-04
+Number of total cache renewals is 59 and 0
+Model sample-4, training epoch 309/999, [0.000003 0.000006 0.000009 0.000014 0.000072]
+Model sample-4, evaluation epoch 309/999, [0.000003 0.000006 0.00001  0.000016 0.000047]
+Learning rate for next epoch is 2.195409E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 310/999, [0.000003 0.000006 0.000009 0.000014 0.000047]
+Model sample-4, evaluation epoch 310/999, [0.000003 0.000007 0.000013 0.00002  0.000044]
+Learning rate for next epoch is 2.173455E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 311/999, [0.000003 0.000006 0.000009 0.000014 0.000049]
+Model sample-4, evaluation epoch 311/999, [0.000003 0.000007 0.000013 0.00002  0.000039]
+Learning rate for next epoch is 2.151721E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 312/999, [0.000003 0.000006 0.000009 0.000014 0.000064]
+Model sample-4, evaluation epoch 312/999, [0.000003 0.000006 0.000011 0.000014 0.000029]
+Learning rate for next epoch is 2.130204E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 313/999, [0.000003 0.000006 0.000009 0.000014 0.000053]
+Model sample-4, evaluation epoch 313/999, [0.000003 0.000007 0.000011 0.000016 0.000032]
+Learning rate for next epoch is 2.108902E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 314/999, [0.000003 0.000006 0.000009 0.000014 0.000081]
+Model sample-4, evaluation epoch 314/999, [0.000003 0.000007 0.000011 0.000015 0.000046]
+Learning rate for next epoch is 2.087813E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 315/999, [0.000003 0.000005 0.000008 0.000013 0.000057]
+Model sample-4, evaluation epoch 315/999, [0.000003 0.000007 0.000011 0.000017 0.000045]
+Learning rate for next epoch is 2.066934E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 316/999, [0.000003 0.000006 0.000009 0.000014 0.000076]
+Model sample-4, evaluation epoch 316/999, [0.000003 0.000008 0.000012 0.000016 0.000033]
+Learning rate for next epoch is 2.046265E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 317/999, [0.000003 0.000005 0.000008 0.000013 0.000046]
+Model sample-4, evaluation epoch 317/999, [0.000003 0.000006 0.000011 0.000014 0.00004 ]
+Learning rate for next epoch is 2.025802E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 318/999, [0.000003 0.000006 0.000009 0.000014 0.000068]
+Model sample-4, evaluation epoch 318/999, [0.000003 0.000006 0.00001  0.000014 0.000029]
+Learning rate for next epoch is 2.005544E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 319/999, [0.000003 0.000005 0.000009 0.000013 0.000053]
+Model sample-4, evaluation epoch 319/999, [0.000003 0.000005 0.000009 0.000012 0.000036]
+Learning rate for next epoch is 1.985489E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 320/999, [0.000003 0.000005 0.000009 0.000013 0.000061]
+Model sample-4, evaluation epoch 320/999, [0.000003 0.000007 0.00001  0.000014 0.000029]
+Learning rate for next epoch is 1.965634E-04
+Number of total cache renewals is 60 and 0
+Model sample-4, training epoch 321/999, [0.000003 0.000005 0.000008 0.000013 0.000051]
+Model sample-4, evaluation epoch 321/999, [0.000003 0.000006 0.00001  0.000015 0.00004 ]
+Learning rate for next epoch is 1.945978E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 322/999, [0.000003 0.000005 0.000008 0.000013 0.000066]
+Model sample-4, evaluation epoch 322/999, [0.000003 0.000006 0.000009 0.000015 0.000038]
+Learning rate for next epoch is 1.926518E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 323/999, [0.000003 0.000005 0.000008 0.000012 0.000051]
+Model sample-4, evaluation epoch 323/999, [0.000003 0.000006 0.000009 0.000013 0.000032]
+Learning rate for next epoch is 1.907253E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 324/999, [0.000003 0.000005 0.000008 0.000013 0.000085]
+Model sample-4, evaluation epoch 324/999, [0.000003 0.000007 0.00001  0.000014 0.000036]
+Learning rate for next epoch is 1.888180E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 325/999, [0.000003 0.000005 0.000008 0.000013 0.000049]
+Model sample-4, evaluation epoch 325/999, [0.000003 0.000006 0.000009 0.000013 0.000029]
+Learning rate for next epoch is 1.869298E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 326/999, [0.000003 0.000005 0.000008 0.000013 0.000053]
+Model sample-4, evaluation epoch 326/999, [0.000003 0.000006 0.000009 0.000013 0.000032]
+Learning rate for next epoch is 1.850605E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 327/999, [0.000003 0.000005 0.000008 0.000013 0.000053]
+Model sample-4, evaluation epoch 327/999, [0.000003 0.000007 0.000009 0.000013 0.000027]
+Learning rate for next epoch is 1.832099E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 328/999, [0.000003 0.000005 0.000008 0.000013 0.00005 ]
+Model sample-4, evaluation epoch 328/999, [0.000003 0.000005 0.000009 0.000013 0.000025]
+Learning rate for next epoch is 1.813778E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 329/999, [0.000003 0.000005 0.000008 0.000012 0.000106]
+Model sample-4, evaluation epoch 329/999, [0.000003 0.000006 0.000008 0.000011 0.000029]
+Learning rate for next epoch is 1.795641E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 330/999, [0.000003 0.000005 0.000008 0.000012 0.000063]
+Model sample-4, evaluation epoch 330/999, [0.000003 0.000006 0.000009 0.000012 0.00003 ]
+Learning rate for next epoch is 1.777684E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 331/999, [0.000003 0.000005 0.000007 0.000012 0.000058]
+Model sample-4, evaluation epoch 331/999, [0.000003 0.000006 0.000009 0.000013 0.000021]
+Learning rate for next epoch is 1.759907E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 332/999, [0.000003 0.000005 0.000008 0.000013 0.000073]
+Model sample-4, evaluation epoch 332/999, [0.000003 0.000006 0.00001  0.000015 0.000059]
+Learning rate for next epoch is 1.742308E-04
+Number of total cache renewals is 61 and 0
+Model sample-4, training epoch 333/999, [0.000003 0.000005 0.000008 0.000012 0.000071]
+Model sample-4, evaluation epoch 333/999, [0.000003 0.000006 0.000008 0.000013 0.000033]
+Learning rate for next epoch is 1.724885E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 334/999, [0.000003 0.000005 0.000008 0.000012 0.000052]
+Model sample-4, evaluation epoch 334/999, [0.000003 0.000006 0.000011 0.00002  0.000058]
+Learning rate for next epoch is 1.707636E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 335/999, [0.000003 0.000005 0.000008 0.000012 0.000055]
+Model sample-4, evaluation epoch 335/999, [0.000003 0.000006 0.000009 0.000013 0.000032]
+Learning rate for next epoch is 1.690560E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 336/999, [0.000003 0.000005 0.000007 0.000011 0.000084]
+Model sample-4, evaluation epoch 336/999, [0.000003 0.000005 0.000009 0.000013 0.000042]
+Learning rate for next epoch is 1.673654E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 337/999, [0.000003 0.000005 0.000008 0.000012 0.000073]
+Model sample-4, evaluation epoch 337/999, [0.000003 0.000006 0.00001  0.000016 0.000039]
+Learning rate for next epoch is 1.656918E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 338/999, [0.000003 0.000005 0.000008 0.000012 0.000046]
+Model sample-4, evaluation epoch 338/999, [0.000003 0.000006 0.000008 0.000012 0.000032]
+Learning rate for next epoch is 1.640349E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 339/999, [0.000003 0.000005 0.000007 0.000012 0.000045]
+Model sample-4, evaluation epoch 339/999, [0.000003 0.000005 0.000009 0.000013 0.000033]
+Learning rate for next epoch is 1.623945E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 340/999, [0.000003 0.000005 0.000007 0.000012 0.000066]
+Model sample-4, evaluation epoch 340/999, [0.000003 0.000005 0.000008 0.000012 0.000027]
+Learning rate for next epoch is 1.607706E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 341/999, [0.000003 0.000005 0.000008 0.000012 0.000065]
+Model sample-4, evaluation epoch 341/999, [0.000003 0.000006 0.000011 0.000018 0.000048]
+Learning rate for next epoch is 1.591629E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 342/999, [0.000003 0.000005 0.000008 0.000012 0.000076]
+Model sample-4, evaluation epoch 342/999, [0.000003 0.000006 0.000009 0.000016 0.000083]
+Learning rate for next epoch is 1.575712E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 343/999, [0.000003 0.000005 0.000008 0.000012 0.000055]
+Model sample-4, evaluation epoch 343/999, [0.000003 0.000005 0.000008 0.000012 0.000041]
+Learning rate for next epoch is 1.559955E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 344/999, [0.000003 0.000005 0.000007 0.000011 0.000053]
+Model sample-4, evaluation epoch 344/999, [0.000003 0.000006 0.00001  0.000013 0.000036]
+Learning rate for next epoch is 1.544356E-04
+Number of total cache renewals is 62 and 0
+Model sample-4, training epoch 345/999, [0.000003 0.000005 0.000007 0.000012 0.000064]
+Model sample-4, evaluation epoch 345/999, [0.000003 0.000006 0.000008 0.000013 0.000031]
+Learning rate for next epoch is 1.528912E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 346/999, [0.000003 0.000005 0.000007 0.000012 0.000066]
+Model sample-4, evaluation epoch 346/999, [0.000003 0.000006 0.000008 0.00001  0.000023]
+Learning rate for next epoch is 1.513623E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 347/999, [0.000003 0.000005 0.000007 0.000012 0.000048]
+Model sample-4, evaluation epoch 347/999, [0.000003 0.000005 0.000008 0.00001  0.000033]
+Learning rate for next epoch is 1.498487E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 348/999, [0.000003 0.000005 0.000007 0.000012 0.000054]
+Model sample-4, evaluation epoch 348/999, [0.000003 0.000006 0.000008 0.000011 0.000037]
+Learning rate for next epoch is 1.483502E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 349/999, [0.000003 0.000005 0.000007 0.000011 0.000065]
+Model sample-4, evaluation epoch 349/999, [0.000003 0.000005 0.000008 0.000011 0.000033]
+Learning rate for next epoch is 1.468667E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 350/999, [0.000003 0.000005 0.000007 0.000012 0.000058]
+Model sample-4, evaluation epoch 350/999, [0.000003 0.000005 0.000008 0.000012 0.000029]
+Learning rate for next epoch is 1.453980E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 351/999, [0.000003 0.000005 0.000007 0.000011 0.000052]
+Model sample-4, evaluation epoch 351/999, [0.000003 0.000006 0.000009 0.000012 0.000032]
+Learning rate for next epoch is 1.439440E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 352/999, [0.000003 0.000005 0.000007 0.000011 0.000061]
+Model sample-4, evaluation epoch 352/999, [0.000003 0.000006 0.000008 0.000011 0.000049]
+Learning rate for next epoch is 1.425046E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 353/999, [0.000003 0.000004 0.000007 0.000011 0.000044]
+Model sample-4, evaluation epoch 353/999, [0.000003 0.000005 0.000008 0.000012 0.000033]
+Learning rate for next epoch is 1.410796E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 354/999, [0.000003 0.000005 0.000007 0.000011 0.000061]
+Model sample-4, evaluation epoch 354/999, [0.000003 0.000005 0.000009 0.000012 0.000033]
+Learning rate for next epoch is 1.396688E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 355/999, [0.000003 0.000005 0.000007 0.000011 0.000055]
+Model sample-4, evaluation epoch 355/999, [0.000003 0.000005 0.000007 0.000011 0.000031]
+Learning rate for next epoch is 1.382721E-04
+Number of total cache renewals is 63 and 0
+Model sample-4, training epoch 356/999, [0.000003 0.000005 0.000007 0.000012 0.000048]
+Model sample-4, evaluation epoch 356/999, [0.000003 0.000005 0.000008 0.000012 0.00003 ]
+Learning rate for next epoch is 1.368894E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 357/999, [0.000003 0.000004 0.000007 0.000011 0.000053]
+Model sample-4, evaluation epoch 357/999, [0.000003 0.000005 0.000008 0.000013 0.000026]
+Learning rate for next epoch is 1.355205E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 358/999, [0.000003 0.000005 0.000007 0.000011 0.00004 ]
+Model sample-4, evaluation epoch 358/999, [0.000003 0.000005 0.000007 0.00001  0.000023]
+Learning rate for next epoch is 1.341653E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 359/999, [0.000003 0.000004 0.000007 0.000011 0.000061]
+Model sample-4, evaluation epoch 359/999, [0.000003 0.000006 0.000009 0.000016 0.000047]
+Learning rate for next epoch is 1.328236E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 360/999, [0.000003 0.000004 0.000007 0.000011 0.000052]
+Model sample-4, evaluation epoch 360/999, [0.000003 0.000005 0.000008 0.000016 0.000042]
+Learning rate for next epoch is 1.314954E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 361/999, [0.000003 0.000004 0.000007 0.000011 0.000053]
+Model sample-4, evaluation epoch 361/999, [0.000003 0.000005 0.000008 0.000011 0.000029]
+Learning rate for next epoch is 1.301804E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 362/999, [0.000003 0.000004 0.000007 0.000011 0.00005 ]
+Model sample-4, evaluation epoch 362/999, [0.000003 0.000005 0.000008 0.000012 0.000028]
+Learning rate for next epoch is 1.288786E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 363/999, [0.000003 0.000004 0.000006 0.00001  0.000062]
+Model sample-4, evaluation epoch 363/999, [0.000003 0.000005 0.000007 0.00001  0.000034]
+Learning rate for next epoch is 1.275898E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 364/999, [0.000003 0.000004 0.000007 0.000011 0.000052]
+Model sample-4, evaluation epoch 364/999, [0.000003 0.000005 0.000007 0.000011 0.00004 ]
+Learning rate for next epoch is 1.263139E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 365/999, [0.000003 0.000004 0.000007 0.00001  0.000048]
+Model sample-4, evaluation epoch 365/999, [0.000003 0.000005 0.000007 0.00001  0.000026]
+Learning rate for next epoch is 1.250508E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 366/999, [0.000003 0.000004 0.000006 0.00001  0.000047]
+Model sample-4, evaluation epoch 366/999, [0.000003 0.000005 0.000007 0.00001  0.00002 ]
+Learning rate for next epoch is 1.238003E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 367/999, [0.000003 0.000004 0.000006 0.00001  0.00005 ]
+Model sample-4, evaluation epoch 367/999, [0.000003 0.000004 0.000007 0.00001  0.000032]
+Learning rate for next epoch is 1.225623E-04
+Number of total cache renewals is 64 and 0
+Model sample-4, training epoch 368/999, [0.000003 0.000004 0.000006 0.00001  0.000064]
+Model sample-4, evaluation epoch 368/999, [0.000003 0.000005 0.000007 0.00001  0.000023]
+Learning rate for next epoch is 1.213367E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 369/999, [0.000003 0.000004 0.000006 0.00001  0.000052]
+Model sample-4, evaluation epoch 369/999, [0.000003 0.000004 0.000006 0.000009 0.000027]
+Learning rate for next epoch is 1.201233E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 370/999, [0.000003 0.000004 0.000006 0.000011 0.000041]
+Model sample-4, evaluation epoch 370/999, [0.000003 0.000005 0.000009 0.000015 0.000045]
+Learning rate for next epoch is 1.189221E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 371/999, [0.000003 0.000004 0.000006 0.00001  0.000047]
+Model sample-4, evaluation epoch 371/999, [0.000003 0.000005 0.000007 0.000009 0.000049]
+Learning rate for next epoch is 1.177328E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 372/999, [0.000003 0.000004 0.000006 0.00001  0.000065]
+Model sample-4, evaluation epoch 372/999, [0.000003 0.000005 0.000007 0.00001  0.000034]
+Learning rate for next epoch is 1.165555E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 373/999, [0.000003 0.000004 0.000006 0.00001  0.00006 ]
+Model sample-4, evaluation epoch 373/999, [0.000003 0.000005 0.000008 0.000011 0.000038]
+Learning rate for next epoch is 1.153899E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 374/999, [0.000003 0.000004 0.000006 0.00001  0.000057]
+Model sample-4, evaluation epoch 374/999, [0.000003 0.000004 0.000007 0.000011 0.000022]
+Learning rate for next epoch is 1.142360E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 375/999, [0.000003 0.000004 0.000006 0.00001  0.000054]
+Model sample-4, evaluation epoch 375/999, [0.000003 0.000005 0.000008 0.000011 0.000027]
+Learning rate for next epoch is 1.130937E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 376/999, [0.000003 0.000004 0.000006 0.00001  0.000044]
+Model sample-4, evaluation epoch 376/999, [0.000003 0.000004 0.000007 0.000011 0.000034]
+Learning rate for next epoch is 1.119628E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 377/999, [0.000003 0.000004 0.000006 0.00001  0.000043]
+Model sample-4, evaluation epoch 377/999, [0.000003 0.000005 0.000007 0.000011 0.000027]
+Learning rate for next epoch is 1.108431E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 378/999, [0.000003 0.000004 0.000006 0.000009 0.000038]
+Model sample-4, evaluation epoch 378/999, [0.000003 0.000004 0.000006 0.000009 0.000037]
+Learning rate for next epoch is 1.097347E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 379/999, [0.000003 0.000004 0.000006 0.000011 0.000052]
+Model sample-4, evaluation epoch 379/999, [0.000003 0.000005 0.000007 0.000011 0.000026]
+Learning rate for next epoch is 1.086373E-04
+Number of total cache renewals is 65 and 0
+Model sample-4, training epoch 380/999, [0.000003 0.000004 0.000006 0.000009 0.000043]
+Model sample-4, evaluation epoch 380/999, [0.000003 0.000004 0.000009 0.000013 0.000029]
+Learning rate for next epoch is 1.075510E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 381/999, [0.000003 0.000004 0.000006 0.00001  0.000053]
+Model sample-4, evaluation epoch 381/999, [0.000003 0.000005 0.000008 0.000011 0.00004 ]
+Learning rate for next epoch is 1.064755E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 382/999, [0.000003 0.000004 0.000006 0.00001  0.000058]
+Model sample-4, evaluation epoch 382/999, [0.000003 0.000004 0.000008 0.000013 0.000029]
+Learning rate for next epoch is 1.054107E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 383/999, [0.000003 0.000004 0.000006 0.000009 0.000051]
+Model sample-4, evaluation epoch 383/999, [0.000003 0.000005 0.000007 0.00001  0.00004 ]
+Learning rate for next epoch is 1.043566E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 384/999, [0.000003 0.000004 0.000006 0.00001  0.000048]
+Model sample-4, evaluation epoch 384/999, [0.000003 0.000004 0.000007 0.000009 0.000027]
+Learning rate for next epoch is 1.033130E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 385/999, [0.000003 0.000004 0.000006 0.000009 0.000072]
+Model sample-4, evaluation epoch 385/999, [0.000003 0.000004 0.000007 0.000009 0.000023]
+Learning rate for next epoch is 1.022799E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 386/999, [0.000003 0.000004 0.000006 0.00001  0.000049]
+Model sample-4, evaluation epoch 386/999, [0.000003 0.000004 0.000007 0.00001  0.000026]
+Learning rate for next epoch is 1.012571E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 387/999, [0.000003 0.000004 0.000006 0.000009 0.000046]
+Model sample-4, evaluation epoch 387/999, [0.000003 0.000004 0.000009 0.000011 0.000029]
+Learning rate for next epoch is 1.002445E-04
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 388/999, [0.000003 0.000004 0.000006 0.00001  0.000041]
+Model sample-4, evaluation epoch 388/999, [0.000003 0.000004 0.000007 0.000011 0.000022]
+Learning rate for next epoch is 9.924209E-05
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 389/999, [0.000003 0.000004 0.000006 0.000009 0.000042]
+Model sample-4, evaluation epoch 389/999, [0.000003 0.000004 0.000008 0.000014 0.000029]
+Learning rate for next epoch is 9.824967E-05
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 390/999, [0.000003 0.000004 0.000005 0.000009 0.000062]
+Model sample-4, evaluation epoch 390/999, [0.000003 0.000004 0.000007 0.000012 0.000028]
+Learning rate for next epoch is 9.726717E-05
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 391/999, [0.000003 0.000004 0.000006 0.000009 0.000044]
+Model sample-4, evaluation epoch 391/999, [0.000003 0.000005 0.000008 0.000012 0.000023]
+Learning rate for next epoch is 9.629450E-05
+Number of total cache renewals is 66 and 0
+Model sample-4, training epoch 392/999, [0.000003 0.000004 0.000006 0.000009 0.000068]
+Model sample-4, evaluation epoch 392/999, [0.000003 0.000004 0.000008 0.000012 0.000029]
+Learning rate for next epoch is 9.533155E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 393/999, [0.000003 0.000004 0.000006 0.000009 0.000037]
+Model sample-4, evaluation epoch 393/999, [0.000003 0.000004 0.000007 0.000014 0.000025]
+Learning rate for next epoch is 9.437824E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 394/999, [0.000003 0.000004 0.000006 0.00001  0.000055]
+Model sample-4, evaluation epoch 394/999, [0.000003 0.000004 0.000011 0.000017 0.000047]
+Learning rate for next epoch is 9.343446E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 395/999, [0.000003 0.000004 0.000005 0.000009 0.000048]
+Model sample-4, evaluation epoch 395/999, [0.000003 0.000004 0.000007 0.000016 0.000031]
+Learning rate for next epoch is 9.250011E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 396/999, [0.000003 0.000004 0.000005 0.000009 0.000049]
+Model sample-4, evaluation epoch 396/999, [0.000003 0.000004 0.000008 0.000015 0.000027]
+Learning rate for next epoch is 9.157511E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 397/999, [0.000003 0.000004 0.000006 0.000009 0.000047]
+Model sample-4, evaluation epoch 397/999, [0.000003 0.000005 0.000008 0.000015 0.000031]
+Learning rate for next epoch is 9.065936E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 398/999, [0.000003 0.000004 0.000006 0.000009 0.000046]
+Model sample-4, evaluation epoch 398/999, [0.000003 0.000004 0.000008 0.000016 0.000031]
+Learning rate for next epoch is 8.975277E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 399/999, [0.000003 0.000004 0.000006 0.000009 0.000045]
+Model sample-4, evaluation epoch 399/999, [0.000003 0.000005 0.000007 0.000017 0.000028]
+Learning rate for next epoch is 8.885524E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 400/999, [0.000003 0.000004 0.000005 0.000009 0.000057]
+Model sample-4, evaluation epoch 400/999, [0.000003 0.000004 0.000006 0.000019 0.000031]
+Learning rate for next epoch is 8.796669E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 401/999, [0.000003 0.000004 0.000006 0.000009 0.000042]
+Model sample-4, evaluation epoch 401/999, [0.000003 0.000004 0.000007 0.000016 0.000026]
+Learning rate for next epoch is 8.708702E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 402/999, [0.000003 0.000004 0.000006 0.000009 0.000036]
+Model sample-4, evaluation epoch 402/999, [0.000003 0.000004 0.000007 0.000019 0.00003 ]
+Learning rate for next epoch is 8.621615E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 403/999, [0.000003 0.000004 0.000006 0.000009 0.000058]
+Model sample-4, evaluation epoch 403/999, [0.000003 0.000004 0.000007 0.000018 0.00004 ]
+Learning rate for next epoch is 8.535399E-05
+Number of total cache renewals is 67 and 0
+Model sample-4, training epoch 404/999, [0.000003 0.000004 0.000005 0.000009 0.000051]
+Model sample-4, evaluation epoch 404/999, [0.000003 0.000005 0.000008 0.00002  0.000033]
+Learning rate for next epoch is 8.450045E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 405/999, [0.000003 0.000004 0.000006 0.000009 0.000065]
+Model sample-4, evaluation epoch 405/999, [0.000003 0.000004 0.000006 0.000015 0.000027]
+Learning rate for next epoch is 8.365544E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 406/999, [0.000003 0.000004 0.000005 0.000009 0.000045]
+Model sample-4, evaluation epoch 406/999, [0.000003 0.000004 0.000006 0.000018 0.00003 ]
+Learning rate for next epoch is 8.281889E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 407/999, [0.000003 0.000004 0.000005 0.000009 0.000047]
+Model sample-4, evaluation epoch 407/999, [0.000003 0.000004 0.000007 0.000018 0.00004 ]
+Learning rate for next epoch is 8.199070E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 408/999, [0.000003 0.000004 0.000005 0.000009 0.000049]
+Model sample-4, evaluation epoch 408/999, [0.000003 0.000004 0.000006 0.000017 0.000028]
+Learning rate for next epoch is 8.117079E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 409/999, [0.000003 0.000004 0.000005 0.000008 0.000036]
+Model sample-4, evaluation epoch 409/999, [0.000003 0.000005 0.000008 0.000017 0.000037]
+Learning rate for next epoch is 8.035909E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 410/999, [0.000003 0.000004 0.000005 0.000008 0.000038]
+Model sample-4, evaluation epoch 410/999, [0.000003 0.000004 0.000011 0.000021 0.000052]
+Learning rate for next epoch is 7.955549E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 411/999, [0.000003 0.000003 0.000005 0.000008 0.000043]
+Model sample-4, evaluation epoch 411/999, [0.000003 0.000004 0.000007 0.000018 0.000039]
+Learning rate for next epoch is 7.875994E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 412/999, [0.000003 0.000004 0.000005 0.000009 0.000048]
+Model sample-4, evaluation epoch 412/999, [0.000003 0.000004 0.000008 0.000019 0.000036]
+Learning rate for next epoch is 7.797234E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 413/999, [0.000003 0.000004 0.000005 0.000008 0.000042]
+Model sample-4, evaluation epoch 413/999, [0.000003 0.000004 0.000006 0.000016 0.000038]
+Learning rate for next epoch is 7.719262E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 414/999, [0.000003 0.000003 0.000005 0.000008 0.000057]
+Model sample-4, evaluation epoch 414/999, [0.000003 0.000004 0.000006 0.00002  0.000037]
+Learning rate for next epoch is 7.642069E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 415/999, [0.000003 0.000003 0.000005 0.000008 0.000068]
+Model sample-4, evaluation epoch 415/999, [0.000003 0.000004 0.000006 0.000019 0.000029]
+Learning rate for next epoch is 7.565648E-05
+Number of total cache renewals is 68 and 0
+Model sample-4, training epoch 416/999, [0.000003 0.000003 0.000005 0.000008 0.00004 ]
+Model sample-4, evaluation epoch 416/999, [0.000003 0.000004 0.000008 0.000019 0.000039]
+Learning rate for next epoch is 7.489992E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 417/999, [0.000003 0.000003 0.000005 0.000008 0.000053]
+Model sample-4, evaluation epoch 417/999, [0.000003 0.000004 0.000006 0.000019 0.000035]
+Learning rate for next epoch is 7.415092E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 418/999, [0.000003 0.000003 0.000005 0.000008 0.00003 ]
+Model sample-4, evaluation epoch 418/999, [0.000003 0.000005 0.000008 0.000021 0.000035]
+Learning rate for next epoch is 7.340941E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 419/999, [0.000003 0.000003 0.000005 0.000008 0.000042]
+Model sample-4, evaluation epoch 419/999, [0.000003 0.000004 0.000007 0.000018 0.00003 ]
+Learning rate for next epoch is 7.267532E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 420/999, [0.000003 0.000003 0.000005 0.000008 0.00006 ]
+Model sample-4, evaluation epoch 420/999, [0.000003 0.000004 0.000007 0.000018 0.000036]
+Learning rate for next epoch is 7.194856E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 421/999, [0.000003 0.000003 0.000005 0.000008 0.000033]
+Model sample-4, evaluation epoch 421/999, [0.000003 0.000004 0.000007 0.000019 0.000031]
+Learning rate for next epoch is 7.122908E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 422/999, [0.000003 0.000003 0.000005 0.000008 0.000043]
+Model sample-4, evaluation epoch 422/999, [0.000003 0.000004 0.000007 0.000018 0.000037]
+Learning rate for next epoch is 7.051679E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 423/999, [0.000003 0.000003 0.000005 0.000008 0.000037]
+Model sample-4, evaluation epoch 423/999, [0.000003 0.000004 0.000008 0.000023 0.000039]
+Learning rate for next epoch is 6.981162E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 424/999, [0.000003 0.000003 0.000005 0.000008 0.000055]
+Model sample-4, evaluation epoch 424/999, [0.000003 0.000004 0.000006 0.000018 0.000033]
+Learning rate for next epoch is 6.911350E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 425/999, [0.000003 0.000003 0.000005 0.000008 0.000061]
+Model sample-4, evaluation epoch 425/999, [0.000003 0.000004 0.000006 0.000015 0.000029]
+Learning rate for next epoch is 6.842237E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 426/999, [0.000003 0.000003 0.000005 0.000008 0.000047]
+Model sample-4, evaluation epoch 426/999, [0.000003 0.000004 0.000007 0.000016 0.000036]
+Learning rate for next epoch is 6.773814E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 427/999, [0.000003 0.000003 0.000005 0.000007 0.000036]
+Model sample-4, evaluation epoch 427/999, [0.000003 0.000004 0.000006 0.000015 0.000038]
+Learning rate for next epoch is 6.706076E-05
+Number of total cache renewals is 69 and 0
+Model sample-4, training epoch 428/999, [0.000003 0.000003 0.000005 0.000008 0.000068]
+Model sample-4, evaluation epoch 428/999, [0.000003 0.000004 0.000007 0.000019 0.000035]
+Learning rate for next epoch is 6.639015E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 429/999, [0.000003 0.000003 0.000005 0.000008 0.000034]
+Model sample-4, evaluation epoch 429/999, [0.000003 0.000004 0.000006 0.000015 0.000033]
+Learning rate for next epoch is 6.572625E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 430/999, [0.000003 0.000003 0.000005 0.000008 0.000037]
+Model sample-4, evaluation epoch 430/999, [0.000003 0.000004 0.000007 0.00002  0.000036]
+Learning rate for next epoch is 6.506899E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 431/999, [0.000003 0.000003 0.000005 0.000008 0.000052]
+Model sample-4, evaluation epoch 431/999, [0.000003 0.000004 0.000006 0.000016 0.000036]
+Learning rate for next epoch is 6.441830E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 432/999, [0.000003 0.000003 0.000005 0.000008 0.000049]
+Model sample-4, evaluation epoch 432/999, [0.000003 0.000004 0.000006 0.00002  0.000036]
+Learning rate for next epoch is 6.377412E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 433/999, [0.000003 0.000003 0.000005 0.000008 0.000045]
+Model sample-4, evaluation epoch 433/999, [0.000003 0.000004 0.000006 0.000015 0.000038]
+Learning rate for next epoch is 6.313638E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 434/999, [0.000003 0.000003 0.000005 0.000008 0.000044]
+Model sample-4, evaluation epoch 434/999, [0.000003 0.000004 0.000006 0.000014 0.000031]
+Learning rate for next epoch is 6.250501E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 435/999, [0.000003 0.000003 0.000005 0.000008 0.000053]
+Model sample-4, evaluation epoch 435/999, [0.000003 0.000004 0.000006 0.00002  0.000049]
+Learning rate for next epoch is 6.187996E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 436/999, [0.000003 0.000003 0.000005 0.000008 0.000043]
+Model sample-4, evaluation epoch 436/999, [0.000003 0.000004 0.000006 0.000019 0.000032]
+Learning rate for next epoch is 6.126116E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 437/999, [0.000003 0.000003 0.000005 0.000007 0.00006 ]
+Model sample-4, evaluation epoch 437/999, [0.000003 0.000003 0.000005 0.000023 0.000041]
+Learning rate for next epoch is 6.064855E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 438/999, [0.000003 0.000003 0.000005 0.000008 0.000032]
+Model sample-4, evaluation epoch 438/999, [0.000003 0.000004 0.00001  0.000025 0.000054]
+Learning rate for next epoch is 6.004207E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 439/999, [0.000003 0.000003 0.000005 0.000007 0.000047]
+Model sample-4, evaluation epoch 439/999, [0.000003 0.000004 0.000005 0.00002  0.000038]
+Learning rate for next epoch is 5.944165E-05
+Number of total cache renewals is 70 and 0
+Model sample-4, training epoch 440/999, [0.000003 0.000003 0.000005 0.000008 0.000035]
+Model sample-4, evaluation epoch 440/999, [0.000003 0.000004 0.000005 0.000015 0.000034]
+Learning rate for next epoch is 5.884723E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 441/999, [0.000003 0.000003 0.000004 0.000007 0.000037]
+Model sample-4, evaluation epoch 441/999, [0.000003 0.000004 0.000006 0.00002  0.000043]
+Learning rate for next epoch is 5.825876E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 442/999, [0.000003 0.000003 0.000004 0.000007 0.000047]
+Model sample-4, evaluation epoch 442/999, [0.000003 0.000004 0.000005 0.000019 0.000034]
+Learning rate for next epoch is 5.767617E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 443/999, [0.000003 0.000003 0.000004 0.000007 0.000038]
+Model sample-4, evaluation epoch 443/999, [0.000003 0.000004 0.000006 0.00002  0.00004 ]
+Learning rate for next epoch is 5.709941E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 444/999, [0.000003 0.000003 0.000005 0.000007 0.000041]
+Model sample-4, evaluation epoch 444/999, [0.000003 0.000004 0.000007 0.000016 0.000049]
+Learning rate for next epoch is 5.652841E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 445/999, [0.000003 0.000003 0.000004 0.000007 0.000037]
+Model sample-4, evaluation epoch 445/999, [0.000003 0.000004 0.000006 0.000017 0.000038]
+Learning rate for next epoch is 5.596313E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 446/999, [0.000003 0.000003 0.000005 0.000007 0.000032]
+Model sample-4, evaluation epoch 446/999, [0.000003 0.000003 0.000005 0.000018 0.000033]
+Learning rate for next epoch is 5.540350E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 447/999, [0.000003 0.000003 0.000004 0.000007 0.000041]
+Model sample-4, evaluation epoch 447/999, [0.000003 0.000003 0.000005 0.000015 0.000037]
+Learning rate for next epoch is 5.484946E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 448/999, [0.000003 0.000003 0.000004 0.000007 0.000042]
+Model sample-4, evaluation epoch 448/999, [0.000003 0.000003 0.000005 0.00002  0.000037]
+Learning rate for next epoch is 5.430097E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 449/999, [0.000003 0.000003 0.000004 0.000007 0.000038]
+Model sample-4, evaluation epoch 449/999, [0.000003 0.000003 0.000005 0.000015 0.000031]
+Learning rate for next epoch is 5.375796E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 450/999, [0.000003 0.000003 0.000004 0.000007 0.000034]
+Model sample-4, evaluation epoch 450/999, [0.000003 0.000003 0.000005 0.000019 0.000038]
+Learning rate for next epoch is 5.322038E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 451/999, [0.000003 0.000003 0.000004 0.000007 0.000041]
+Model sample-4, evaluation epoch 451/999, [0.000003 0.000003 0.000007 0.000021 0.000052]
+Learning rate for next epoch is 5.268818E-05
+Number of total cache renewals is 71 and 0
+Model sample-4, training epoch 452/999, [0.000003 0.000003 0.000004 0.000007 0.000037]
+Model sample-4, evaluation epoch 452/999, [0.000003 0.000003 0.000006 0.00002  0.000043]
+Learning rate for next epoch is 5.216129E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 453/999, [0.000003 0.000003 0.000004 0.000007 0.000031]
+Model sample-4, evaluation epoch 453/999, [0.000003 0.000003 0.000006 0.000015 0.000037]
+Learning rate for next epoch is 5.163968E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 454/999, [0.000003 0.000003 0.000004 0.000007 0.000036]
+Model sample-4, evaluation epoch 454/999, [0.000003 0.000003 0.000005 0.000012 0.000036]
+Learning rate for next epoch is 5.112328E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 455/999, [0.000003 0.000003 0.000004 0.000007 0.000069]
+Model sample-4, evaluation epoch 455/999, [0.000003 0.000003 0.000005 0.000016 0.000044]
+Learning rate for next epoch is 5.061205E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 456/999, [0.000003 0.000003 0.000004 0.000007 0.000035]
+Model sample-4, evaluation epoch 456/999, [0.000003 0.000003 0.000007 0.000023 0.000034]
+Learning rate for next epoch is 5.010593E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 457/999, [0.000003 0.000003 0.000004 0.000007 0.000032]
+Model sample-4, evaluation epoch 457/999, [0.000003 0.000003 0.000005 0.000026 0.00004 ]
+Learning rate for next epoch is 4.960487E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 458/999, [0.000003 0.000003 0.000004 0.000007 0.000041]
+Model sample-4, evaluation epoch 458/999, [0.000003 0.000003 0.000006 0.000014 0.00004 ]
+Learning rate for next epoch is 4.910882E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 459/999, [0.000003 0.000003 0.000004 0.000007 0.00003 ]
+Model sample-4, evaluation epoch 459/999, [0.000003 0.000003 0.000006 0.000019 0.000042]
+Learning rate for next epoch is 4.861773E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 460/999, [0.000003 0.000003 0.000004 0.000007 0.000031]
+Model sample-4, evaluation epoch 460/999, [0.000003 0.000003 0.000006 0.000017 0.000034]
+Learning rate for next epoch is 4.813156E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 461/999, [0.000003 0.000003 0.000004 0.000007 0.000039]
+Model sample-4, evaluation epoch 461/999, [0.000003 0.000003 0.000006 0.000015 0.000032]
+Learning rate for next epoch is 4.765024E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 462/999, [0.000003 0.000003 0.000004 0.000007 0.00004 ]
+Model sample-4, evaluation epoch 462/999, [0.000003 0.000003 0.000005 0.000015 0.000033]
+Learning rate for next epoch is 4.717374E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 463/999, [0.000003 0.000003 0.000004 0.000006 0.000036]
+Model sample-4, evaluation epoch 463/999, [0.000003 0.000003 0.000005 0.000014 0.000041]
+Learning rate for next epoch is 4.670200E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 464/999, [0.000003 0.000003 0.000004 0.000006 0.000047]
+Model sample-4, evaluation epoch 464/999, [0.000003 0.000003 0.000005 0.000024 0.000042]
+Learning rate for next epoch is 4.623498E-05
+Number of total cache renewals is 72 and 0
+Model sample-4, training epoch 465/999, [0.000003 0.000003 0.000004 0.000007 0.000035]
+Model sample-4, evaluation epoch 465/999, [0.000003 0.000003 0.000005 0.000018 0.000035]
+Learning rate for next epoch is 4.577263E-05
+Number of total cache renewals is 73 and 0
+Model sample-4, training epoch 466/999, [0.000003 0.000003 0.000004 0.000006 0.000035]
+Model sample-4, evaluation epoch 466/999, [0.000003 0.000003 0.000005 0.000024 0.000053]
+Learning rate for next epoch is 4.531491E-05
+Number of total cache renewals is 73 and 0
+Model sample-4, training epoch 467/999, [0.000003 0.000003 0.000004 0.000007 0.000037]
+Model sample-4, evaluation epoch 467/999, [0.000003 0.000003 0.000005 0.000015 0.000042]
+Early stop for model sample-4 at epoch 467
+Finished training of model sample-4 with score 0.000009 in epoch 366
