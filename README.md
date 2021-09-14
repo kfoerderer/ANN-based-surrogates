@@ -1,6 +1,6 @@
 # Artificial-Neural-Network-based Surrogate Models
 
-This repository provides supplementary material for the Doctoral thesis "Modeling and Communicating Flexibility in Smart Grids Using Artificial Neural Networks as Surrogate Models" (to be published).
+This repository provides supplementary materials for the doctoral thesis [Modeling and Communicating Flexibility in Smart Grids Using Artificial Neural Networks as Surrogate Models](https://dx.doi.org/10.5445/IR/1000136921).
 
 ## Motivation briefly explained
 
